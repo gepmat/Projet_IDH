@@ -1,0 +1,9 @@
+for file in set_all_50_information_p53.txt set_all_500_information_p53.txt set_coexpression_50_information_p53.txt set_coexpression_500_information_p53.txt set_text_mining_50_information_p53.txt set_text_mining_500_information_p53.txt; do
+for measure in binomial hypergeometric coverage chi2; do
+	echo $file;
+	echo $measure;
+	python3 python/blastset.py --sets sets/20721.D_rerio.goa_indirect.sets --query set_gene/$file -m $measure -l 10;
+done;
+done; 
+
+

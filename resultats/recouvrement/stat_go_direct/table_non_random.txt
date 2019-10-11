@@ -1,0 +1,42 @@
+set_all_50_information_p53.txt
+Table de recouvrement (en pourcentage) des méthodes avec tous les résultats significatifs: 
+            methode   binomiale  hypergéométrique    coverage        chi2
+0         binomiale  100.000000        100.000000   51.737452   81.132075
+1  hypergéométrique  100.000000        100.000000   51.737452   81.132075
+2          coverage   51.737452         51.737452  100.000000   59.459459
+3              chi2   81.132075         81.132075   59.459459  100.000000
+set_all_500_information_p53.txt
+Table de recouvrement (en pourcentage) des méthodes avec tous les résultats significatifs: 
+            methode   binomiale  hypergéométrique    coverage        chi2
+0         binomiale  100.000000         99.230769   37.664234   70.750383
+1  hypergéométrique   99.230769        100.000000   37.956204   70.319635
+2          coverage   37.664234         37.956204  100.000000   43.722628
+3              chi2   70.750383         70.319635   43.722628  100.000000
+set_coexpression_50_information_p53.txt
+Table de recouvrement (en pourcentage) des méthodes avec tous les résultats significatifs: 
+            methode   binomiale  hypergéométrique    coverage        chi2
+0         binomiale  100.000000        100.000000   51.737452   81.132075
+1  hypergéométrique  100.000000        100.000000   51.737452   81.132075
+2          coverage   51.737452         51.737452  100.000000   59.459459
+3              chi2   81.132075         81.132075   59.459459  100.000000
+set_coexpression_500_information_p53.txt
+Table de recouvrement (en pourcentage) des méthodes avec tous les résultats significatifs: 
+            methode   binomiale  hypergéométrique    coverage        chi2
+0         binomiale  100.000000         99.230769   37.664234   70.750383
+1  hypergéométrique   99.230769        100.000000   37.956204   70.319635
+2          coverage   37.664234         37.956204  100.000000   43.722628
+3              chi2   70.750383         70.319635   43.722628  100.000000
+set_text_mining_50_information_p53.txt
+Table de recouvrement (en pourcentage) des méthodes avec tous les résultats significatifs: 
+            methode   binomiale  hypergéométrique    coverage        chi2
+0         binomiale  100.000000        100.000000   51.737452   81.132075
+1  hypergéométrique  100.000000        100.000000   51.737452   81.132075
+2          coverage   51.737452         51.737452  100.000000   59.459459
+3              chi2   81.132075         81.132075   59.459459  100.000000
+set_text_mining_500_information_p53.txt
+Table de recouvrement (en pourcentage) des méthodes avec tous les résultats significatifs: 
+            methode   binomiale  hypergéométrique    coverage        chi2
+0         binomiale  100.000000         99.230769   37.664234   70.750383
+1  hypergéométrique   99.230769        100.000000   37.956204   70.319635
+2          coverage   37.664234         37.956204  100.000000   43.722628
+3              chi2   70.750383         70.319635   43.722628  100.000000

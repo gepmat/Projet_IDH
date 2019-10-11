@@ -1,0 +1,192 @@
+set_all_50_information_p53.txt
+binomial
+set_all_50_information_p53.txt
+hypergeometric
+set_all_50_information_p53.txt
+coverage
+04914	0.9982857142857143	3/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04120	0.9986466165413533	3/133	Ubiquitin mediated proteolysis - Danio rerio (zebrafish)
+04150	0.9988571428571429	2/70	mTOR signaling pathway - Danio rerio (zebrafish)
+04115	0.9988732394366198	2/71	p53 signaling pathway - Danio rerio (zebrafish)
+04068	0.9989024390243902	3/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04370	0.9989743589743589	2/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04070	0.999	2/80	Phosphatidylinositol signaling system - Danio rerio (zebrafish)
+03440	0.9992857142857143	1/28	Homologous recombination - Danio rerio (zebrafish)
+00350	0.9993939393939394	1/33	Tyrosine metabolism - Danio rerio (zebrafish)
+04010	0.9994019933554817	3/301	MAPK signaling pathway - Danio rerio (zebrafish)
+set_all_50_information_p53.txt
+chi2
+set_all_500_information_p53.txt
+binomial
+04621	5.257206670681194e-06	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04370	0.0009766357715325913	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04914	0.0022097468671971113	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04068	0.0022498611717495843	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04115	0.0023050945009966267	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04110	0.0032489865886751543	25/138	Cell cycle - Danio rerio (zebrafish)
+04620	0.006113519819492695	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+04622	0.025719644241465212	11/56	RIG-I-like receptor signaling pathway - Danio rerio (zebrafish)
+04012	0.043525031034526096	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_all_500_information_p53.txt
+hypergeometric
+04621	7.314696202910147e-07	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04370	0.0004551861217731765	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04914	0.00120068643290508	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04115	0.0012249931347122173	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04068	0.001258734568014421	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04110	0.001895564683199753	25/138	Cell cycle - Danio rerio (zebrafish)
+04620	0.003827186841192974	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+04622	0.019370734870323245	11/56	RIG-I-like receptor signaling pathway - Danio rerio (zebrafish)
+04012	0.035250120425621576	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_all_500_information_p53.txt
+coverage
+04621	0.9874347826086957	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04068	0.9897439024390244	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04110	0.9909420289855072	25/138	Cell cycle - Danio rerio (zebrafish)
+04914	0.9916	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04370	0.9916923076923077	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04115	0.9927887323943662	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04620	0.9930322580645161	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+05168	0.9941686746987952	22/166	Herpes simplex virus 1 infection - Danio rerio (zebrafish)
+04010	0.9947906976744186	28/301	MAPK signaling pathway - Danio rerio (zebrafish)
+04012	0.99488	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_all_500_information_p53.txt
+chi2
+01100	5.7400184334568075e-27	16/1199	Metabolic pathways - Danio rerio (zebrafish)
+04080	1.0136637614211614e-07	3/380	Neuroactive ligand-receptor interaction - Danio rerio (zebrafish)
+04621	1.0536933146855804e-07	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04020	0.0034841012174402068	6/242	Calcium signaling pathway - Danio rerio (zebrafish)
+04370	0.003871400163679992	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+00230	0.00784517690270347	3/177	Purine metabolism - Danio rerio (zebrafish)
+04145	0.008641754906604357	1/140	Phagosome - Danio rerio (zebrafish)
+04810	0.008909672061030414	8/253	Regulation of actin cytoskeleton - Danio rerio (zebrafish)
+04514	0.010036422094869067	0/118	Cell adhesion molecules (CAMs) - Danio rerio (zebrafish)
+01200	0.010550861169142922	0/117	Carbon metabolism - Danio rerio (zebrafish)
+set_coexpression_50_information_p53.txt
+binomial
+set_coexpression_50_information_p53.txt
+hypergeometric
+set_coexpression_50_information_p53.txt
+coverage
+04914	0.9982857142857143	3/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04120	0.9986466165413533	3/133	Ubiquitin mediated proteolysis - Danio rerio (zebrafish)
+04150	0.9988571428571429	2/70	mTOR signaling pathway - Danio rerio (zebrafish)
+04115	0.9988732394366198	2/71	p53 signaling pathway - Danio rerio (zebrafish)
+04068	0.9989024390243902	3/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04370	0.9989743589743589	2/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04070	0.999	2/80	Phosphatidylinositol signaling system - Danio rerio (zebrafish)
+03440	0.9992857142857143	1/28	Homologous recombination - Danio rerio (zebrafish)
+00350	0.9993939393939394	1/33	Tyrosine metabolism - Danio rerio (zebrafish)
+04010	0.9994019933554817	3/301	MAPK signaling pathway - Danio rerio (zebrafish)
+set_coexpression_50_information_p53.txt
+chi2
+set_coexpression_500_information_p53.txt
+binomial
+04621	5.257206670681194e-06	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04370	0.0009766357715325913	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04914	0.0022097468671971113	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04068	0.0022498611717495843	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04115	0.0023050945009966267	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04110	0.0032489865886751543	25/138	Cell cycle - Danio rerio (zebrafish)
+04620	0.006113519819492695	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+04622	0.025719644241465212	11/56	RIG-I-like receptor signaling pathway - Danio rerio (zebrafish)
+04012	0.043525031034526096	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_coexpression_500_information_p53.txt
+hypergeometric
+04621	7.314696202910147e-07	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04370	0.0004551861217731765	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04914	0.00120068643290508	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04115	0.0012249931347122173	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04068	0.001258734568014421	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04110	0.001895564683199753	25/138	Cell cycle - Danio rerio (zebrafish)
+04620	0.003827186841192974	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+04622	0.019370734870323245	11/56	RIG-I-like receptor signaling pathway - Danio rerio (zebrafish)
+04012	0.035250120425621576	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_coexpression_500_information_p53.txt
+coverage
+04621	0.9874347826086957	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04068	0.9897439024390244	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04110	0.9909420289855072	25/138	Cell cycle - Danio rerio (zebrafish)
+04914	0.9916	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04370	0.9916923076923077	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04115	0.9927887323943662	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04620	0.9930322580645161	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+05168	0.9941686746987952	22/166	Herpes simplex virus 1 infection - Danio rerio (zebrafish)
+04010	0.9947906976744186	28/301	MAPK signaling pathway - Danio rerio (zebrafish)
+04012	0.99488	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_coexpression_500_information_p53.txt
+chi2
+01100	5.7400184334568075e-27	16/1199	Metabolic pathways - Danio rerio (zebrafish)
+04080	1.0136637614211614e-07	3/380	Neuroactive ligand-receptor interaction - Danio rerio (zebrafish)
+04621	1.0536933146855804e-07	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04020	0.0034841012174402068	6/242	Calcium signaling pathway - Danio rerio (zebrafish)
+04370	0.003871400163679992	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+00230	0.00784517690270347	3/177	Purine metabolism - Danio rerio (zebrafish)
+04145	0.008641754906604357	1/140	Phagosome - Danio rerio (zebrafish)
+04810	0.008909672061030414	8/253	Regulation of actin cytoskeleton - Danio rerio (zebrafish)
+04514	0.010036422094869067	0/118	Cell adhesion molecules (CAMs) - Danio rerio (zebrafish)
+01200	0.010550861169142922	0/117	Carbon metabolism - Danio rerio (zebrafish)
+set_text_mining_50_information_p53.txt
+binomial
+set_text_mining_50_information_p53.txt
+hypergeometric
+set_text_mining_50_information_p53.txt
+coverage
+04914	0.9982857142857143	3/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04120	0.9986466165413533	3/133	Ubiquitin mediated proteolysis - Danio rerio (zebrafish)
+04150	0.9988571428571429	2/70	mTOR signaling pathway - Danio rerio (zebrafish)
+04115	0.9988732394366198	2/71	p53 signaling pathway - Danio rerio (zebrafish)
+04068	0.9989024390243902	3/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04370	0.9989743589743589	2/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04070	0.999	2/80	Phosphatidylinositol signaling system - Danio rerio (zebrafish)
+03440	0.9992857142857143	1/28	Homologous recombination - Danio rerio (zebrafish)
+00350	0.9993939393939394	1/33	Tyrosine metabolism - Danio rerio (zebrafish)
+04010	0.9994019933554817	3/301	MAPK signaling pathway - Danio rerio (zebrafish)
+set_text_mining_50_information_p53.txt
+chi2
+set_text_mining_500_information_p53.txt
+binomial
+04621	5.257206670681194e-06	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04370	0.0009766357715325913	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04914	0.0022097468671971113	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04068	0.0022498611717495843	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04115	0.0023050945009966267	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04110	0.0032489865886751543	25/138	Cell cycle - Danio rerio (zebrafish)
+04620	0.006113519819492695	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+04622	0.025719644241465212	11/56	RIG-I-like receptor signaling pathway - Danio rerio (zebrafish)
+04012	0.043525031034526096	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_text_mining_500_information_p53.txt
+hypergeometric
+04621	7.314696202910147e-07	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04370	0.0004551861217731765	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04914	0.00120068643290508	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04115	0.0012249931347122173	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04068	0.001258734568014421	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04110	0.001895564683199753	25/138	Cell cycle - Danio rerio (zebrafish)
+04620	0.003827186841192974	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+04622	0.019370734870323245	11/56	RIG-I-like receptor signaling pathway - Danio rerio (zebrafish)
+04012	0.035250120425621576	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_text_mining_500_information_p53.txt
+coverage
+04621	0.9874347826086957	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04068	0.9897439024390244	29/164	FoxO signaling pathway - Danio rerio (zebrafish)
+04110	0.9909420289855072	25/138	Cell cycle - Danio rerio (zebrafish)
+04914	0.9916	21/105	Progesterone-mediated oocyte maturation - Danio rerio (zebrafish)
+04370	0.9916923076923077	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+04115	0.9927887323943662	16/71	p53 signaling pathway - Danio rerio (zebrafish)
+04620	0.9930322580645161	18/93	Toll-like receptor signaling pathway - Danio rerio (zebrafish)
+05168	0.9941686746987952	22/166	Herpes simplex virus 1 infection - Danio rerio (zebrafish)
+04010	0.9947906976744186	28/301	MAPK signaling pathway - Danio rerio (zebrafish)
+04012	0.99488	16/100	ErbB signaling pathway - Danio rerio (zebrafish)
+set_text_mining_500_information_p53.txt
+chi2
+01100	5.7400184334568075e-27	16/1199	Metabolic pathways - Danio rerio (zebrafish)
+04080	1.0136637614211614e-07	3/380	Neuroactive ligand-receptor interaction - Danio rerio (zebrafish)
+04621	1.0536933146855804e-07	17/46	NOD-like receptor signaling pathway - Danio rerio (zebrafish)
+04020	0.0034841012174402068	6/242	Calcium signaling pathway - Danio rerio (zebrafish)
+04370	0.003871400163679992	18/78	VEGF signaling pathway - Danio rerio (zebrafish)
+00230	0.00784517690270347	3/177	Purine metabolism - Danio rerio (zebrafish)
+04145	0.008641754906604357	1/140	Phagosome - Danio rerio (zebrafish)
+04810	0.008909672061030414	8/253	Regulation of actin cytoskeleton - Danio rerio (zebrafish)
+04514	0.010036422094869067	0/118	Cell adhesion molecules (CAMs) - Danio rerio (zebrafish)
+01200	0.010550861169142922	0/117	Carbon metabolism - Danio rerio (zebrafish)

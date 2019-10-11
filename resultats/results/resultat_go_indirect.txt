@@ -1,0 +1,288 @@
+set_all_50_information_p53.txt
+binomial
+GO:0042026	2.177280026650596e-05	3/24	biological_process: protein refolding
+GO:0006301	0.00011344692307004214	2/7	biological_process: postreplication repair
+GO:2000177	0.00014796879040075432	2/8	biological_process: regulation of neural precursor cell proliferation
+GO:0051241	0.00015784439864461482	3/47	biological_process: negative regulation of multicellular organismal process
+GO:0010507	0.0001870116936336616	2/9	biological_process: negative regulation of autophagy
+GO:0070534	0.00023055652934122442	2/10	biological_process: protein K63-linked ubiquitination
+GO:0016018	0.00033107587911484517	2/12	molecular_function: cyclosporin A binding
+GO:0001666	0.00038828401575711347	3/64	biological_process: response to hypoxia
+GO:0031330	0.0006598321425976233	2/17	biological_process: negative regulation of cellular catabolic process
+GO:0140096	0.0007873597172838065	7/700	molecular_function: catalytic activity, acting on a protein
+set_all_50_information_p53.txt
+hypergeometric
+GO:0042026	1.9217171101826246e-05	3/24	biological_process: protein refolding
+GO:0006301	9.751592521478534e-05	2/7	biological_process: postreplication repair
+GO:2000177	0.00012983957873725457	2/8	biological_process: regulation of neural precursor cell proliferation
+GO:0051241	0.00014860501335456057	3/47	biological_process: negative regulation of multicellular organismal process
+GO:0010507	0.0001667034045536511	2/9	biological_process: negative regulation of autophagy
+GO:0070534	0.00020808820861782597	2/10	biological_process: protein K63-linked ubiquitination
+GO:0016018	0.0003043442715967445	2/12	molecular_function: cyclosporin A binding
+GO:0001666	0.0003719962521830617	3/64	biological_process: response to hypoxia
+GO:0031330	0.0006227693390577501	2/17	biological_process: negative regulation of cellular catabolic process
+GO:0140096	0.0007726434152949412	7/700	molecular_function: catalytic activity, acting on a protein
+set_all_50_information_p53.txt
+coverage
+GO:0001325	0.98	1/1	biological_process: formation of extrachromosomal circular DNA
+GO:0002052	0.98	1/1	biological_process: positive regulation of neuroblast proliferation
+GO:0004167	0.98	1/1	molecular_function: dopachrome isomerase activity
+GO:0006583	0.98	1/1	biological_process: melanin biosynthetic process from tyrosine
+GO:0021847	0.98	1/1	biological_process: ventricular zone neuroblast division
+GO:0021869	0.98	1/1	biological_process: forebrain ventricular zone progenitor cell division
+GO:0033010	0.98	1/1	cellular_component: paranodal junction
+GO:0042730	0.98	1/1	biological_process: fibrinolysis
+GO:0044224	0.98	1/1	cellular_component: juxtaparanode region of axon
+GO:0046970	0.98	1/1	molecular_function: NAD-dependent histone deacetylase activity (H4-K16 specific)
+set_all_50_information_p53.txt
+chi2
+GO:0001325	1.456863927334179e-97	1/1	biological_process: formation of extrachromosomal circular DNA
+GO:0002052	1.456863927334179e-97	1/1	biological_process: positive regulation of neuroblast proliferation
+GO:0004167	1.456863927334179e-97	1/1	molecular_function: dopachrome isomerase activity
+GO:0006583	1.456863927334179e-97	1/1	biological_process: melanin biosynthetic process from tyrosine
+GO:0021847	1.456863927334179e-97	1/1	biological_process: ventricular zone neuroblast division
+GO:0021869	1.456863927334179e-97	1/1	biological_process: forebrain ventricular zone progenitor cell division
+GO:0033010	1.456863927334179e-97	1/1	cellular_component: paranodal junction
+GO:0042730	1.456863927334179e-97	1/1	biological_process: fibrinolysis
+GO:0044224	1.456863927334179e-97	1/1	cellular_component: juxtaparanode region of axon
+GO:0046970	1.456863927334179e-97	1/1	molecular_function: NAD-dependent histone deacetylase activity (H4-K16 specific)
+set_all_500_information_p53.txt
+binomial
+GO:0005634	7.825899899521634e-24	183/4047	cellular_component: nucleus
+GO:0018193	3.343783684553772e-21	39/248	biological_process: peptidyl-amino acid modification
+GO:0043231	3.641404768813539e-21	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0016310	2.6880763765185525e-20	60/657	biological_process: phosphorylation
+GO:0004672	2.2314167043958333e-16	68/999	molecular_function: protein kinase activity
+GO:0006468	2.6616258496016583e-16	67/977	biological_process: protein phosphorylation
+GO:0016773	4.473337920065838e-15	69/1090	molecular_function: phosphotransferase activity, alcohol group as acceptor
+GO:0048523	1.424921505985568e-14	26/165	biological_process: negative regulation of cellular process
+GO:0016301	2.165719407055927e-13	70/1212	molecular_function: kinase activity
+GO:0018105	1.8660861302059278e-12	19/99	biological_process: peptidyl-serine phosphorylation
+set_all_500_information_p53.txt
+hypergeometric
+GO:0005634	1.9729667000896186e-24	183/4047	cellular_component: nucleus
+GO:0018193	3.0316637745179935e-22	39/248	biological_process: peptidyl-amino acid modification
+GO:0043231	1.115224845501877e-21	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0016310	5.0019092983007885e-21	60/657	biological_process: phosphorylation
+GO:0004672	7.11029700160598e-17	68/999	molecular_function: protein kinase activity
+GO:0006468	8.494918545055431e-17	67/977	biological_process: protein phosphorylation
+GO:0016773	1.6339865532977498e-15	69/1090	molecular_function: phosphotransferase activity, alcohol group as acceptor
+GO:0048523	2.942652874730445e-15	26/165	biological_process: negative regulation of cellular process
+GO:0016301	9.30973344574876e-14	70/1212	molecular_function: kinase activity
+GO:0018105	4.25938671514635e-13	19/99	biological_process: peptidyl-serine phosphorylation
+set_all_500_information_p53.txt
+coverage
+GO:0005634	0.9834499629355078	183/4047	cellular_component: nucleus
+GO:0043231	0.9842426335174954	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0018193	0.9877338709677419	39/248	biological_process: peptidyl-amino acid modification
+GO:0051153	0.98775	7/8	biological_process: regulation of striated muscle cell differentiation
+GO:0016310	0.989041095890411	60/657	biological_process: phosphorylation
+GO:0060143	0.9897142857142858	6/7	biological_process: positive regulation of syncytium formation by plasma membrane fusion
+GO:1901741	0.9897142857142858	6/7	biological_process: positive regulation of myoblast fusion
+GO:0008150	0.9903138747884941	214/9456	biological_process: biological_process
+GO:0009987	0.9905007954962672	197/8171	biological_process: cellular process
+GO:0004672	0.9907427427427428	68/999	molecular_function: protein kinase activity
+set_all_500_information_p53.txt
+chi2
+GO:0051153	8.66602430515311e-58	7/8	biological_process: regulation of striated muscle cell differentiation
+GO:0060143	2.5699288912032924e-48	6/7	biological_process: positive regulation of syncytium formation by plasma membrane fusion
+GO:1901741	2.5699288912032924e-48	6/7	biological_process: positive regulation of myoblast fusion
+GO:0018193	2.0528181539543488e-45	39/248	biological_process: peptidyl-amino acid modification
+GO:0010831	7.548933464250074e-42	6/8	biological_process: positive regulation of myotube differentiation
+GO:1901739	7.548933464250074e-42	6/8	biological_process: regulation of myoblast fusion
+GO:0048743	1.1344870969850902e-37	4/4	biological_process: positive regulation of skeletal muscle fiber development
+GO:0010830	7.958437856847733e-37	6/9	biological_process: regulation of myotube differentiation
+GO:0008285	1.4469635251808557e-33	14/49	biological_process: negative regulation of cell population proliferation
+GO:0060142	8.182018337304207e-33	6/10	biological_process: regulation of syncytium formation by plasma membrane fusion
+set_coexpression_50_information_p53.txt
+binomial
+GO:0042026	2.177280026650596e-05	3/24	biological_process: protein refolding
+GO:0006301	0.00011344692307004214	2/7	biological_process: postreplication repair
+GO:2000177	0.00014796879040075432	2/8	biological_process: regulation of neural precursor cell proliferation
+GO:0051241	0.00015784439864461482	3/47	biological_process: negative regulation of multicellular organismal process
+GO:0010507	0.0001870116936336616	2/9	biological_process: negative regulation of autophagy
+GO:0070534	0.00023055652934122442	2/10	biological_process: protein K63-linked ubiquitination
+GO:0016018	0.00033107587911484517	2/12	molecular_function: cyclosporin A binding
+GO:0001666	0.00038828401575711347	3/64	biological_process: response to hypoxia
+GO:0031330	0.0006598321425976233	2/17	biological_process: negative regulation of cellular catabolic process
+GO:0140096	0.0007873597172838065	7/700	molecular_function: catalytic activity, acting on a protein
+set_coexpression_50_information_p53.txt
+hypergeometric
+GO:0042026	1.9217171101826246e-05	3/24	biological_process: protein refolding
+GO:0006301	9.751592521478534e-05	2/7	biological_process: postreplication repair
+GO:2000177	0.00012983957873725457	2/8	biological_process: regulation of neural precursor cell proliferation
+GO:0051241	0.00014860501335456057	3/47	biological_process: negative regulation of multicellular organismal process
+GO:0010507	0.0001667034045536511	2/9	biological_process: negative regulation of autophagy
+GO:0070534	0.00020808820861782597	2/10	biological_process: protein K63-linked ubiquitination
+GO:0016018	0.0003043442715967445	2/12	molecular_function: cyclosporin A binding
+GO:0001666	0.0003719962521830617	3/64	biological_process: response to hypoxia
+GO:0031330	0.0006227693390577501	2/17	biological_process: negative regulation of cellular catabolic process
+GO:0140096	0.0007726434152949412	7/700	molecular_function: catalytic activity, acting on a protein
+set_coexpression_50_information_p53.txt
+coverage
+GO:0001325	0.98	1/1	biological_process: formation of extrachromosomal circular DNA
+GO:0002052	0.98	1/1	biological_process: positive regulation of neuroblast proliferation
+GO:0004167	0.98	1/1	molecular_function: dopachrome isomerase activity
+GO:0006583	0.98	1/1	biological_process: melanin biosynthetic process from tyrosine
+GO:0021847	0.98	1/1	biological_process: ventricular zone neuroblast division
+GO:0021869	0.98	1/1	biological_process: forebrain ventricular zone progenitor cell division
+GO:0033010	0.98	1/1	cellular_component: paranodal junction
+GO:0042730	0.98	1/1	biological_process: fibrinolysis
+GO:0044224	0.98	1/1	cellular_component: juxtaparanode region of axon
+GO:0046970	0.98	1/1	molecular_function: NAD-dependent histone deacetylase activity (H4-K16 specific)
+set_coexpression_50_information_p53.txt
+chi2
+GO:0001325	1.456863927334179e-97	1/1	biological_process: formation of extrachromosomal circular DNA
+GO:0002052	1.456863927334179e-97	1/1	biological_process: positive regulation of neuroblast proliferation
+GO:0004167	1.456863927334179e-97	1/1	molecular_function: dopachrome isomerase activity
+GO:0006583	1.456863927334179e-97	1/1	biological_process: melanin biosynthetic process from tyrosine
+GO:0021847	1.456863927334179e-97	1/1	biological_process: ventricular zone neuroblast division
+GO:0021869	1.456863927334179e-97	1/1	biological_process: forebrain ventricular zone progenitor cell division
+GO:0033010	1.456863927334179e-97	1/1	cellular_component: paranodal junction
+GO:0042730	1.456863927334179e-97	1/1	biological_process: fibrinolysis
+GO:0044224	1.456863927334179e-97	1/1	cellular_component: juxtaparanode region of axon
+GO:0046970	1.456863927334179e-97	1/1	molecular_function: NAD-dependent histone deacetylase activity (H4-K16 specific)
+set_coexpression_500_information_p53.txt
+binomial
+GO:0005634	7.825899899521634e-24	183/4047	cellular_component: nucleus
+GO:0018193	3.343783684553772e-21	39/248	biological_process: peptidyl-amino acid modification
+GO:0043231	3.641404768813539e-21	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0016310	2.6880763765185525e-20	60/657	biological_process: phosphorylation
+GO:0004672	2.2314167043958333e-16	68/999	molecular_function: protein kinase activity
+GO:0006468	2.6616258496016583e-16	67/977	biological_process: protein phosphorylation
+GO:0016773	4.473337920065838e-15	69/1090	molecular_function: phosphotransferase activity, alcohol group as acceptor
+GO:0048523	1.424921505985568e-14	26/165	biological_process: negative regulation of cellular process
+GO:0016301	2.165719407055927e-13	70/1212	molecular_function: kinase activity
+GO:0018105	1.8660861302059278e-12	19/99	biological_process: peptidyl-serine phosphorylation
+set_coexpression_500_information_p53.txt
+hypergeometric
+GO:0005634	1.9729667000896186e-24	183/4047	cellular_component: nucleus
+GO:0018193	3.0316637745179935e-22	39/248	biological_process: peptidyl-amino acid modification
+GO:0043231	1.115224845501877e-21	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0016310	5.0019092983007885e-21	60/657	biological_process: phosphorylation
+GO:0004672	7.11029700160598e-17	68/999	molecular_function: protein kinase activity
+GO:0006468	8.494918545055431e-17	67/977	biological_process: protein phosphorylation
+GO:0016773	1.6339865532977498e-15	69/1090	molecular_function: phosphotransferase activity, alcohol group as acceptor
+GO:0048523	2.942652874730445e-15	26/165	biological_process: negative regulation of cellular process
+GO:0016301	9.30973344574876e-14	70/1212	molecular_function: kinase activity
+GO:0018105	4.25938671514635e-13	19/99	biological_process: peptidyl-serine phosphorylation
+set_coexpression_500_information_p53.txt
+coverage
+GO:0005634	0.9834499629355078	183/4047	cellular_component: nucleus
+GO:0043231	0.9842426335174954	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0018193	0.9877338709677419	39/248	biological_process: peptidyl-amino acid modification
+GO:0051153	0.98775	7/8	biological_process: regulation of striated muscle cell differentiation
+GO:0016310	0.989041095890411	60/657	biological_process: phosphorylation
+GO:0060143	0.9897142857142858	6/7	biological_process: positive regulation of syncytium formation by plasma membrane fusion
+GO:1901741	0.9897142857142858	6/7	biological_process: positive regulation of myoblast fusion
+GO:0008150	0.9903138747884941	214/9456	biological_process: biological_process
+GO:0009987	0.9905007954962672	197/8171	biological_process: cellular process
+GO:0004672	0.9907427427427428	68/999	molecular_function: protein kinase activity
+set_coexpression_500_information_p53.txt
+chi2
+GO:0051153	8.66602430515311e-58	7/8	biological_process: regulation of striated muscle cell differentiation
+GO:0060143	2.5699288912032924e-48	6/7	biological_process: positive regulation of syncytium formation by plasma membrane fusion
+GO:1901741	2.5699288912032924e-48	6/7	biological_process: positive regulation of myoblast fusion
+GO:0018193	2.0528181539543488e-45	39/248	biological_process: peptidyl-amino acid modification
+GO:0010831	7.548933464250074e-42	6/8	biological_process: positive regulation of myotube differentiation
+GO:1901739	7.548933464250074e-42	6/8	biological_process: regulation of myoblast fusion
+GO:0048743	1.1344870969850902e-37	4/4	biological_process: positive regulation of skeletal muscle fiber development
+GO:0010830	7.958437856847733e-37	6/9	biological_process: regulation of myotube differentiation
+GO:0008285	1.4469635251808557e-33	14/49	biological_process: negative regulation of cell population proliferation
+GO:0060142	8.182018337304207e-33	6/10	biological_process: regulation of syncytium formation by plasma membrane fusion
+set_text_mining_50_information_p53.txt
+binomial
+GO:0042026	2.177280026650596e-05	3/24	biological_process: protein refolding
+GO:0006301	0.00011344692307004214	2/7	biological_process: postreplication repair
+GO:2000177	0.00014796879040075432	2/8	biological_process: regulation of neural precursor cell proliferation
+GO:0051241	0.00015784439864461482	3/47	biological_process: negative regulation of multicellular organismal process
+GO:0010507	0.0001870116936336616	2/9	biological_process: negative regulation of autophagy
+GO:0070534	0.00023055652934122442	2/10	biological_process: protein K63-linked ubiquitination
+GO:0016018	0.00033107587911484517	2/12	molecular_function: cyclosporin A binding
+GO:0001666	0.00038828401575711347	3/64	biological_process: response to hypoxia
+GO:0031330	0.0006598321425976233	2/17	biological_process: negative regulation of cellular catabolic process
+GO:0140096	0.0007873597172838065	7/700	molecular_function: catalytic activity, acting on a protein
+set_text_mining_50_information_p53.txt
+hypergeometric
+GO:0042026	1.9217171101826246e-05	3/24	biological_process: protein refolding
+GO:0006301	9.751592521478534e-05	2/7	biological_process: postreplication repair
+GO:2000177	0.00012983957873725457	2/8	biological_process: regulation of neural precursor cell proliferation
+GO:0051241	0.00014860501335456057	3/47	biological_process: negative regulation of multicellular organismal process
+GO:0010507	0.0001667034045536511	2/9	biological_process: negative regulation of autophagy
+GO:0070534	0.00020808820861782597	2/10	biological_process: protein K63-linked ubiquitination
+GO:0016018	0.0003043442715967445	2/12	molecular_function: cyclosporin A binding
+GO:0001666	0.0003719962521830617	3/64	biological_process: response to hypoxia
+GO:0031330	0.0006227693390577501	2/17	biological_process: negative regulation of cellular catabolic process
+GO:0140096	0.0007726434152949412	7/700	molecular_function: catalytic activity, acting on a protein
+set_text_mining_50_information_p53.txt
+coverage
+GO:0001325	0.98	1/1	biological_process: formation of extrachromosomal circular DNA
+GO:0002052	0.98	1/1	biological_process: positive regulation of neuroblast proliferation
+GO:0004167	0.98	1/1	molecular_function: dopachrome isomerase activity
+GO:0006583	0.98	1/1	biological_process: melanin biosynthetic process from tyrosine
+GO:0021847	0.98	1/1	biological_process: ventricular zone neuroblast division
+GO:0021869	0.98	1/1	biological_process: forebrain ventricular zone progenitor cell division
+GO:0033010	0.98	1/1	cellular_component: paranodal junction
+GO:0042730	0.98	1/1	biological_process: fibrinolysis
+GO:0044224	0.98	1/1	cellular_component: juxtaparanode region of axon
+GO:0046970	0.98	1/1	molecular_function: NAD-dependent histone deacetylase activity (H4-K16 specific)
+set_text_mining_50_information_p53.txt
+chi2
+GO:0001325	1.456863927334179e-97	1/1	biological_process: formation of extrachromosomal circular DNA
+GO:0002052	1.456863927334179e-97	1/1	biological_process: positive regulation of neuroblast proliferation
+GO:0004167	1.456863927334179e-97	1/1	molecular_function: dopachrome isomerase activity
+GO:0006583	1.456863927334179e-97	1/1	biological_process: melanin biosynthetic process from tyrosine
+GO:0021847	1.456863927334179e-97	1/1	biological_process: ventricular zone neuroblast division
+GO:0021869	1.456863927334179e-97	1/1	biological_process: forebrain ventricular zone progenitor cell division
+GO:0033010	1.456863927334179e-97	1/1	cellular_component: paranodal junction
+GO:0042730	1.456863927334179e-97	1/1	biological_process: fibrinolysis
+GO:0044224	1.456863927334179e-97	1/1	cellular_component: juxtaparanode region of axon
+GO:0046970	1.456863927334179e-97	1/1	molecular_function: NAD-dependent histone deacetylase activity (H4-K16 specific)
+set_text_mining_500_information_p53.txt
+binomial
+GO:0005634	7.825899899521634e-24	183/4047	cellular_component: nucleus
+GO:0018193	3.343783684553772e-21	39/248	biological_process: peptidyl-amino acid modification
+GO:0043231	3.641404768813539e-21	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0016310	2.6880763765185525e-20	60/657	biological_process: phosphorylation
+GO:0004672	2.2314167043958333e-16	68/999	molecular_function: protein kinase activity
+GO:0006468	2.6616258496016583e-16	67/977	biological_process: protein phosphorylation
+GO:0016773	4.473337920065838e-15	69/1090	molecular_function: phosphotransferase activity, alcohol group as acceptor
+GO:0048523	1.424921505985568e-14	26/165	biological_process: negative regulation of cellular process
+GO:0016301	2.165719407055927e-13	70/1212	molecular_function: kinase activity
+GO:0018105	1.8660861302059278e-12	19/99	biological_process: peptidyl-serine phosphorylation
+set_text_mining_500_information_p53.txt
+hypergeometric
+GO:0005634	1.9729667000896186e-24	183/4047	cellular_component: nucleus
+GO:0018193	3.0316637745179935e-22	39/248	biological_process: peptidyl-amino acid modification
+GO:0043231	1.115224845501877e-21	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0016310	5.0019092983007885e-21	60/657	biological_process: phosphorylation
+GO:0004672	7.11029700160598e-17	68/999	molecular_function: protein kinase activity
+GO:0006468	8.494918545055431e-17	67/977	biological_process: protein phosphorylation
+GO:0016773	1.6339865532977498e-15	69/1090	molecular_function: phosphotransferase activity, alcohol group as acceptor
+GO:0048523	2.942652874730445e-15	26/165	biological_process: negative regulation of cellular process
+GO:0016301	9.30973344574876e-14	70/1212	molecular_function: kinase activity
+GO:0018105	4.25938671514635e-13	19/99	biological_process: peptidyl-serine phosphorylation
+set_text_mining_500_information_p53.txt
+coverage
+GO:0005634	0.9834499629355078	183/4047	cellular_component: nucleus
+GO:0043231	0.9842426335174954	185/4344	cellular_component: intracellular membrane-bounded organelle
+GO:0018193	0.9877338709677419	39/248	biological_process: peptidyl-amino acid modification
+GO:0051153	0.98775	7/8	biological_process: regulation of striated muscle cell differentiation
+GO:0016310	0.989041095890411	60/657	biological_process: phosphorylation
+GO:0060143	0.9897142857142858	6/7	biological_process: positive regulation of syncytium formation by plasma membrane fusion
+GO:1901741	0.9897142857142858	6/7	biological_process: positive regulation of myoblast fusion
+GO:0008150	0.9903138747884941	214/9456	biological_process: biological_process
+GO:0009987	0.9905007954962672	197/8171	biological_process: cellular process
+GO:0004672	0.9907427427427428	68/999	molecular_function: protein kinase activity
+set_text_mining_500_information_p53.txt
+chi2
+GO:0051153	8.66602430515311e-58	7/8	biological_process: regulation of striated muscle cell differentiation
+GO:0060143	2.5699288912032924e-48	6/7	biological_process: positive regulation of syncytium formation by plasma membrane fusion
+GO:1901741	2.5699288912032924e-48	6/7	biological_process: positive regulation of myoblast fusion
+GO:0018193	2.0528181539543488e-45	39/248	biological_process: peptidyl-amino acid modification
+GO:0010831	7.548933464250074e-42	6/8	biological_process: positive regulation of myotube differentiation
+GO:1901739	7.548933464250074e-42	6/8	biological_process: regulation of myoblast fusion
+GO:0048743	1.1344870969850902e-37	4/4	biological_process: positive regulation of skeletal muscle fiber development
+GO:0010830	7.958437856847733e-37	6/9	biological_process: regulation of myotube differentiation
+GO:0008285	1.4469635251808557e-33	14/49	biological_process: negative regulation of cell population proliferation
+GO:0060142	8.182018337304207e-33	6/10	biological_process: regulation of syncytium formation by plasma membrane fusion

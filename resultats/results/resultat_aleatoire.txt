@@ -1,0 +1,960 @@
+set_aleatoire_500_information_p53_1.txt
+binomial
+GO:0009855	0.0093289042770742	4/37	biological_process: determination of bilateral symmetry
+GO:0009437	0.016943405040267295	2/9	biological_process: carnitine metabolic process
+GO:0044703	0.021607222886926087	1/1	biological_process: multi-organism reproductive process
+GO:0016716	0.021607222886926087	1/1	molecular_function: oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004555	0.021607222886926087	1/1	molecular_function: alpha,alpha-trehalase activity
+GO:0004585	0.021607222886926087	1/1	molecular_function: ornithine carbamoyltransferase activity
+GO:0005991	0.021607222886926087	1/1	biological_process: trehalose metabolic process
+GO:1903831	0.021607222886926087	1/1	biological_process: signal transduction involved in cellular response to ammonium ion
+GO:0007618	0.021607222886926087	1/1	biological_process: mating
+GO:0008049	0.021607222886926087	1/1	biological_process: male courtship behavior
+set_aleatoire_500_information_p53_1.txt
+hypergeometric
+GO:0009855	0.008400656073663948	4/37	biological_process: determination of bilateral symmetry
+GO:0009437	0.015485455171479447	2/9	biological_process: carnitine metabolic process
+GO:0044703	0.02184359982476709	1/1	biological_process: multi-organism reproductive process
+GO:0016716	0.02184359982476709	1/1	molecular_function: oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004555	0.02184359982476709	1/1	molecular_function: alpha,alpha-trehalase activity
+GO:0004585	0.02184359982476709	1/1	molecular_function: ornithine carbamoyltransferase activity
+GO:0005991	0.02184359982476709	1/1	biological_process: trehalose metabolic process
+GO:1903831	0.02184359982476709	1/1	biological_process: signal transduction involved in cellular response to ammonium ion
+GO:0007618	0.02184359982476709	1/1	biological_process: mating
+GO:0008049	0.02184359982476709	1/1	biological_process: male courtship behavior
+set_aleatoire_500_information_p53_1.txt
+coverage
+GO:0008150	0.9978424280879865	101/9456	biological_process: biological_process
+GO:0044703	0.998	1/1	biological_process: multi-organism reproductive process
+GO:0016716	0.998	1/1	molecular_function: oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004555	0.998	1/1	molecular_function: alpha,alpha-trehalase activity
+GO:0004585	0.998	1/1	molecular_function: ornithine carbamoyltransferase activity
+GO:0005991	0.998	1/1	biological_process: trehalose metabolic process
+GO:1903831	0.998	1/1	biological_process: signal transduction involved in cellular response to ammonium ion
+GO:0007618	0.998	1/1	biological_process: mating
+GO:0008049	0.998	1/1	biological_process: male courtship behavior
+GO:0008721	0.998	1/1	molecular_function: D-serine ammonia-lyase activity
+set_aleatoire_500_information_p53_1.txt
+chi2
+GO:0008150	1.896436834285591e-19	101/9456	biological_process: biological_process
+GO:0009987	2.3108300151088923e-19	76/8171	biological_process: cellular process
+GO:0016020	3.572619605419479e-18	72/7796	cellular_component: membrane
+GO:0016021	1.482389507215051e-17	54/6725	cellular_component: integral component of membrane
+GO:0044425	1.8883729910381452e-17	58/6933	cellular_component: membrane part
+GO:0044703	4.413367655723903e-09	1/1	biological_process: multi-organism reproductive process
+GO:0016716	4.413367655723903e-09	1/1	molecular_function: oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, another compound as one donor, and incorporation of one atom of oxygen
+GO:0004555	4.413367655723903e-09	1/1	molecular_function: alpha,alpha-trehalase activity
+GO:0004585	4.413367655723903e-09	1/1	molecular_function: ornithine carbamoyltransferase activity
+GO:0005991	4.413367655723903e-09	1/1	biological_process: trehalose metabolic process
+set_aleatoire_50_information_p53_1.txt
+binomial
+GO:0000032	0.0021820236159575284	1/1	biological_process: cell wall mannoprotein biosynthetic process
+GO:0006057	0.0021820236159575284	1/1	biological_process: mannoprotein biosynthetic process
+GO:0031506	0.0021820236159575284	1/1	biological_process: cell wall glycoprotein biosynthetic process
+GO:0046651	0.0021820236159575284	1/1	biological_process: lymphocyte proliferation
+GO:0042100	0.0021820236159575284	1/1	biological_process: B cell proliferation
+GO:0002367	0.0021820236159575284	1/1	biological_process: cytokine production involved in immune response
+GO:0002369	0.0021820236159575284	1/1	biological_process: T cell cytokine production
+GO:0004476	0.0021820236159575284	1/1	molecular_function: mannose-6-phosphate isomerase activity
+GO:0005136	0.0021820236159575284	1/1	molecular_function: interleukin-4 receptor binding
+GO:0032943	0.0021820236159575284	1/1	biological_process: mononuclear cell proliferation
+set_aleatoire_50_information_p53_1.txt
+hypergeometric
+GO:0000032	0.002184359982497838	1/1	biological_process: cell wall mannoprotein biosynthetic process
+GO:0006057	0.002184359982497838	1/1	biological_process: mannoprotein biosynthetic process
+GO:0031506	0.002184359982497838	1/1	biological_process: cell wall glycoprotein biosynthetic process
+GO:0046651	0.002184359982497838	1/1	biological_process: lymphocyte proliferation
+GO:0042100	0.002184359982497838	1/1	biological_process: B cell proliferation
+GO:0002367	0.002184359982497838	1/1	biological_process: cytokine production involved in immune response
+GO:0002369	0.002184359982497838	1/1	biological_process: T cell cytokine production
+GO:0004476	0.002184359982497838	1/1	molecular_function: mannose-6-phosphate isomerase activity
+GO:0005136	0.002184359982497838	1/1	molecular_function: interleukin-4 receptor binding
+GO:0032943	0.002184359982497838	1/1	biological_process: mononuclear cell proliferation
+set_aleatoire_50_information_p53_1.txt
+coverage
+GO:0000032	0.98	1/1	biological_process: cell wall mannoprotein biosynthetic process
+GO:0006057	0.98	1/1	biological_process: mannoprotein biosynthetic process
+GO:0031506	0.98	1/1	biological_process: cell wall glycoprotein biosynthetic process
+GO:0046651	0.98	1/1	biological_process: lymphocyte proliferation
+GO:0042100	0.98	1/1	biological_process: B cell proliferation
+GO:0002367	0.98	1/1	biological_process: cytokine production involved in immune response
+GO:0002369	0.98	1/1	biological_process: T cell cytokine production
+GO:0004476	0.98	1/1	molecular_function: mannose-6-phosphate isomerase activity
+GO:0005136	0.98	1/1	molecular_function: interleukin-4 receptor binding
+GO:0032943	0.98	1/1	biological_process: mononuclear cell proliferation
+set_aleatoire_50_information_p53_1.txt
+chi2
+GO:0000032	1.456863927334179e-97	1/1	biological_process: cell wall mannoprotein biosynthetic process
+GO:0006057	1.456863927334179e-97	1/1	biological_process: mannoprotein biosynthetic process
+GO:0031506	1.456863927334179e-97	1/1	biological_process: cell wall glycoprotein biosynthetic process
+GO:0046651	1.456863927334179e-97	1/1	biological_process: lymphocyte proliferation
+GO:0042100	1.456863927334179e-97	1/1	biological_process: B cell proliferation
+GO:0002367	1.456863927334179e-97	1/1	biological_process: cytokine production involved in immune response
+GO:0002369	1.456863927334179e-97	1/1	biological_process: T cell cytokine production
+GO:0004476	1.456863927334179e-97	1/1	molecular_function: mannose-6-phosphate isomerase activity
+GO:0005136	1.456863927334179e-97	1/1	molecular_function: interleukin-4 receptor binding
+GO:0032943	1.456863927334179e-97	1/1	biological_process: mononuclear cell proliferation
+set_aleatoire_500_information_p53_2.txt
+binomial
+GO:0004169	0.005537764876553047	2/5	molecular_function: dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0009066	0.008719153945982876	3/19	biological_process: aspartate family amino acid metabolic process
+GO:2000251	0.010546983374173178	2/7	biological_process: positive regulation of actin cytoskeleton reorganization
+GO:2000249	0.013579949597922959	2/8	biological_process: regulation of actin cytoskeleton reorganization
+GO:0051764	0.016943405040267295	2/9	biological_process: actin crosslink formation
+GO:0000154	0.020621710456513904	2/10	biological_process: rRNA modification
+GO:0003156	0.021607222886926087	1/1	biological_process: regulation of animal organ formation
+GO:2000136	0.021607222886926087	1/1	biological_process: regulation of cell proliferation involved in heart morphogenesis
+GO:0003264	0.021607222886926087	1/1	biological_process: regulation of cardioblast proliferation
+GO:0072513	0.021607222886926087	1/1	biological_process: positive regulation of secondary heart field cardioblast proliferation
+set_aleatoire_500_information_p53_2.txt
+hypergeometric
+GO:0004169	0.004558220772051927	2/5	molecular_function: dolichyl-phosphate-mannose-protein mannosyltransferase activity
+GO:0009066	0.0077371371472614685	3/19	biological_process: aspartate family amino acid metabolic process
+GO:2000251	0.009298316447657655	2/7	biological_process: positive regulation of actin cytoskeleton reorganization
+GO:2000249	0.012219555778223564	2/8	biological_process: regulation of actin cytoskeleton reorganization
+GO:0051764	0.015485455171479447	2/9	biological_process: actin crosslink formation
+GO:0000154	0.01907962519883495	2/10	biological_process: rRNA modification
+GO:0003143	0.020538776307689636	3/27	biological_process: embryonic heart tube morphogenesis
+GO:0003156	0.02184359982476709	1/1	biological_process: regulation of animal organ formation
+GO:2000136	0.02184359982476709	1/1	biological_process: regulation of cell proliferation involved in heart morphogenesis
+GO:0003264	0.02184359982476709	1/1	biological_process: regulation of cardioblast proliferation
+set_aleatoire_500_information_p53_2.txt
+coverage
+GO:0009987	0.997744217354057	96/8171	biological_process: cellular process
+GO:0003156	0.998	1/1	biological_process: regulation of animal organ formation
+GO:2000136	0.998	1/1	biological_process: regulation of cell proliferation involved in heart morphogenesis
+GO:0003264	0.998	1/1	biological_process: regulation of cardioblast proliferation
+GO:0072513	0.998	1/1	biological_process: positive regulation of secondary heart field cardioblast proliferation
+GO:0003952	0.998	1/1	molecular_function: NAD+ synthase (glutamine-hydrolyzing) activity
+GO:0016655	0.998	1/1	molecular_function: oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor
+GO:0003960	0.998	1/1	molecular_function: NADPH:quinone reductase activity
+GO:0005638	0.998	1/1	cellular_component: lamin filament
+GO:0005652	0.998	1/1	cellular_component: nuclear lamina
+set_aleatoire_500_information_p53_2.txt
+chi2
+GO:0016020	1.3460943013539584e-22	61/7796	cellular_component: membrane
+GO:0008150	2.1806334522620607e-21	96/9456	biological_process: biological_process
+GO:0016021	5.775150059453254e-20	48/6725	cellular_component: integral component of membrane
+GO:0044425	2.0087289900921917e-19	53/6933	cellular_component: membrane part
+GO:0009987	2.165835696282981e-12	96/8171	biological_process: cellular process
+GO:0065007	8.01779933654105e-10	44/4902	biological_process: biological regulation
+GO:0005575	2.2439487179623328e-09	48/5051	cellular_component: cellular_component
+GO:0003156	4.413367655723903e-09	1/1	biological_process: regulation of animal organ formation
+GO:2000136	4.413367655723903e-09	1/1	biological_process: regulation of cell proliferation involved in heart morphogenesis
+GO:0003264	4.413367655723903e-09	1/1	biological_process: regulation of cardioblast proliferation
+set_aleatoire_50_information_p53_2.txt
+binomial
+GO:0043605	0.004359381025716933	1/2	biological_process: cellular amide catabolic process
+GO:0005497	0.004359381025716933	1/2	molecular_function: androgen binding
+GO:0030354	0.004359381025716933	1/2	molecular_function: melanin-concentrating hormone activity
+GO:0031777	0.004359381025716933	1/2	molecular_function: type 1 melanin-concentrating hormone receptor binding
+GO:0016553	0.006532082004643865	1/3	biological_process: base conversion or substitution editing
+GO:0016554	0.006532082004643865	1/3	biological_process: cytidine to uridine editing
+GO:0022898	0.006532082004643865	1/3	biological_process: regulation of transmembrane transporter activity
+GO:2000275	0.006532082004643865	1/3	biological_process: regulation of oxidative phosphorylation uncoupler activity
+GO:0016444	0.008700136308034494	1/4	biological_process: somatic cell DNA recombination
+GO:0050777	0.008700136308034494	1/4	biological_process: negative regulation of immune response
+set_aleatoire_50_information_p53_2.txt
+hypergeometric
+GO:0043605	0.004364043760622039	1/2	biological_process: cellular amide catabolic process
+GO:0005497	0.004364043760622039	1/2	molecular_function: androgen binding
+GO:0030354	0.004364043760622039	1/2	molecular_function: melanin-concentrating hormone activity
+GO:0031777	0.004364043760622039	1/2	molecular_function: type 1 melanin-concentrating hormone receptor binding
+GO:0016553	0.00653906114147345	1/3	biological_process: base conversion or substitution editing
+GO:0016554	0.00653906114147345	1/3	biological_process: cytidine to uridine editing
+GO:0022898	0.00653906114147345	1/3	biological_process: regulation of transmembrane transporter activity
+GO:2000275	0.00653906114147345	1/3	biological_process: regulation of oxidative phosphorylation uncoupler activity
+GO:0016444	0.008709421910821837	1/4	biological_process: somatic cell DNA recombination
+GO:0050777	0.008709421910821837	1/4	biological_process: negative regulation of immune response
+set_aleatoire_50_information_p53_2.txt
+coverage
+GO:0043605	0.99	1/2	biological_process: cellular amide catabolic process
+GO:0005497	0.99	1/2	molecular_function: androgen binding
+GO:0030354	0.99	1/2	molecular_function: melanin-concentrating hormone activity
+GO:0031777	0.99	1/2	molecular_function: type 1 melanin-concentrating hormone receptor binding
+GO:0016553	0.9933333333333333	1/3	biological_process: base conversion or substitution editing
+GO:0016554	0.9933333333333333	1/3	biological_process: cytidine to uridine editing
+GO:0022898	0.9933333333333333	1/3	biological_process: regulation of transmembrane transporter activity
+GO:2000275	0.9933333333333333	1/3	biological_process: regulation of oxidative phosphorylation uncoupler activity
+GO:0016444	0.995	1/4	biological_process: somatic cell DNA recombination
+GO:0050777	0.995	1/4	biological_process: negative regulation of immune response
+set_aleatoire_50_information_p53_2.txt
+chi2
+GO:0043605	4.739886570579636e-48	1/2	biological_process: cellular amide catabolic process
+GO:0005497	4.739886570579636e-48	1/2	molecular_function: androgen binding
+GO:0030354	4.739886570579636e-48	1/2	molecular_function: melanin-concentrating hormone activity
+GO:0031777	4.739886570579636e-48	1/2	molecular_function: type 1 melanin-concentrating hormone receptor binding
+GO:0016553	1.270134596525958e-31	1/3	biological_process: base conversion or substitution editing
+GO:0016554	1.270134596525958e-31	1/3	biological_process: cytidine to uridine editing
+GO:0022898	1.270134596525958e-31	1/3	biological_process: regulation of transmembrane transporter activity
+GO:2000275	1.270134596525958e-31	1/3	biological_process: regulation of oxidative phosphorylation uncoupler activity
+GO:0016444	1.908910405228229e-23	1/4	biological_process: somatic cell DNA recombination
+GO:0050777	1.908910405228229e-23	1/4	biological_process: negative regulation of immune response
+set_aleatoire_500_information_p53_3.txt
+binomial
+GO:0044729	0.0009251950269831678	2/2	molecular_function: hemi-methylated DNA-binding
+GO:0000792	0.0035955285693753678	2/4	cellular_component: heterochromatin
+GO:0016211	0.0035955285693753678	2/4	molecular_function: ammonia ligase activity
+GO:0004356	0.0035955285693753678	2/4	molecular_function: glutamate-ammonia ligase activity
+GO:0006542	0.0035955285693753678	2/4	biological_process: glutamine biosynthetic process
+GO:0006402	0.005462439256457842	3/16	biological_process: mRNA catabolic process
+GO:0001881	0.007860680295274513	2/6	biological_process: receptor recycling
+GO:0032732	0.007860680295274513	2/6	biological_process: positive regulation of interleukin-1 production
+GO:0050704	0.007860680295274513	2/6	biological_process: regulation of interleukin-1 secretion
+GO:0050716	0.007860680295274513	2/6	biological_process: positive regulation of interleukin-1 secretion
+set_aleatoire_500_information_p53_3.txt
+hypergeometric
+GO:0044729	0.0004762093718579073	2/2	molecular_function: hemi-methylated DNA-binding
+GO:0000792	0.0027750398478282798	2/4	cellular_component: heterochromatin
+GO:0016211	0.0027750398478282798	2/4	molecular_function: ammonia ligase activity
+GO:0004356	0.0027750398478282798	2/4	molecular_function: glutamate-ammonia ligase activity
+GO:0006542	0.0027750398478282798	2/4	biological_process: glutamine biosynthetic process
+GO:0006402	0.004693616564665149	3/16	biological_process: mRNA catabolic process
+GO:0001881	0.00673869222437159	2/6	biological_process: receptor recycling
+GO:0032732	0.00673869222437159	2/6	biological_process: positive regulation of interleukin-1 production
+GO:0050704	0.00673869222437159	2/6	biological_process: regulation of interleukin-1 secretion
+GO:0050716	0.00673869222437159	2/6	biological_process: positive regulation of interleukin-1 secretion
+set_aleatoire_500_information_p53_3.txt
+coverage
+GO:0044729	0.996	2/2	molecular_function: hemi-methylated DNA-binding
+GO:0008150	0.997346869712352	112/9456	biological_process: biological_process
+GO:0009987	0.997744217354057	96/8171	biological_process: cellular process
+GO:0048856	0.9978429680759275	50/2318	biological_process: anatomical structure development
+GO:0000792	0.998	2/4	cellular_component: heterochromatin
+GO:0000800	0.998	1/1	cellular_component: lateral element
+GO:0000957	0.998	1/1	biological_process: mitochondrial RNA catabolic process
+GO:0000958	0.998	1/1	biological_process: mitochondrial mRNA catabolic process
+GO:0000960	0.998	1/1	biological_process: regulation of mitochondrial RNA catabolic process
+GO:0000962	0.998	1/1	biological_process: positive regulation of mitochondrial RNA catabolic process
+set_aleatoire_500_information_p53_3.txt
+chi2
+GO:0044425	1.1682392028679577e-20	50/6933	cellular_component: membrane part
+GO:0016021	5.775150059453254e-20	48/6725	cellular_component: integral component of membrane
+GO:0016020	1.001656536988667e-19	68/7796	cellular_component: membrane
+GO:0044729	1.626696856855112e-18	2/2	molecular_function: hemi-methylated DNA-binding
+GO:0008150	1.6425765601958365e-15	112/9456	biological_process: biological_process
+GO:0009987	2.165835696282981e-12	96/8171	biological_process: cellular process
+GO:0000800	4.413367655723903e-09	1/1	cellular_component: lateral element
+GO:0000957	4.413367655723903e-09	1/1	biological_process: mitochondrial RNA catabolic process
+GO:0000958	4.413367655723903e-09	1/1	biological_process: mitochondrial mRNA catabolic process
+GO:0000960	4.413367655723903e-09	1/1	biological_process: regulation of mitochondrial RNA catabolic process
+set_aleatoire_50_information_p53_3.txt
+binomial
+GO:0004053	0.004359381025716933	1/2	molecular_function: arginase activity
+GO:0019547	0.004359381025716933	1/2	biological_process: arginine catabolic process to ornithine
+GO:0016813	0.006532082004643865	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+GO:0001957	0.008700136308034494	1/4	biological_process: intramembranous ossification
+GO:0004968	0.008700136308034494	1/4	molecular_function: gonadotropin-releasing hormone receptor activity
+GO:0006591	0.008700136308034494	1/4	biological_process: ornithine metabolic process
+GO:0097210	0.008700136308034494	1/4	biological_process: response to gonadotropin-releasing hormone
+GO:0097211	0.008700136308034494	1/4	biological_process: cellular response to gonadotropin-releasing hormone
+GO:0000050	0.01086355367117791	1/5	biological_process: urea cycle
+GO:0001887	0.01086355367117791	1/5	biological_process: selenium compound metabolic process
+set_aleatoire_50_information_p53_3.txt
+hypergeometric
+GO:0004053	0.004364043760622039	1/2	molecular_function: arginase activity
+GO:0019547	0.004364043760622039	1/2	biological_process: arginine catabolic process to ornithine
+GO:0016813	0.00653906114147345	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+GO:0001957	0.008709421910821837	1/4	biological_process: intramembranous ossification
+GO:0004968	0.008709421910821837	1/4	molecular_function: gonadotropin-releasing hormone receptor activity
+GO:0006591	0.008709421910821837	1/4	biological_process: ornithine metabolic process
+GO:0097210	0.008709421910821837	1/4	biological_process: response to gonadotropin-releasing hormone
+GO:0097211	0.008709421910821837	1/4	biological_process: cellular response to gonadotropin-releasing hormone
+GO:0000050	0.010875135836934072	1/5	biological_process: urea cycle
+GO:0001887	0.010875135836934072	1/5	biological_process: selenium compound metabolic process
+set_aleatoire_50_information_p53_3.txt
+coverage
+GO:0004053	0.99	1/2	molecular_function: arginase activity
+GO:0019547	0.99	1/2	biological_process: arginine catabolic process to ornithine
+GO:0016813	0.9933333333333333	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+GO:0001957	0.995	1/4	biological_process: intramembranous ossification
+GO:0004968	0.995	1/4	molecular_function: gonadotropin-releasing hormone receptor activity
+GO:0006591	0.995	1/4	biological_process: ornithine metabolic process
+GO:0097210	0.995	1/4	biological_process: response to gonadotropin-releasing hormone
+GO:0097211	0.995	1/4	biological_process: cellular response to gonadotropin-releasing hormone
+GO:0000050	0.996	1/5	biological_process: urea cycle
+GO:0001887	0.996	1/5	biological_process: selenium compound metabolic process
+set_aleatoire_50_information_p53_3.txt
+chi2
+GO:0004053	4.739886570579636e-48	1/2	molecular_function: arginase activity
+GO:0019547	4.739886570579636e-48	1/2	biological_process: arginine catabolic process to ornithine
+GO:0016813	1.270134596525958e-31	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+GO:0001957	1.908910405228229e-23	1/4	biological_process: intramembranous ossification
+GO:0004968	1.908910405228229e-23	1/4	molecular_function: gonadotropin-releasing hormone receptor activity
+GO:0006591	1.908910405228229e-23	1/4	biological_process: ornithine metabolic process
+GO:0097210	1.908910405228229e-23	1/4	biological_process: response to gonadotropin-releasing hormone
+GO:0097211	1.908910405228229e-23	1/4	biological_process: cellular response to gonadotropin-releasing hormone
+GO:0000050	1.4616151098615656e-18	1/5	biological_process: urea cycle
+GO:0001887	1.4616151098615656e-18	1/5	biological_process: selenium compound metabolic process
+set_aleatoire_500_information_p53_4.txt
+binomial
+GO:0061025	0.0010879106660244581	3/9	biological_process: membrane fusion
+GO:0004739	0.0020518465592721893	2/3	molecular_function: pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0006086	0.0035955285693753678	2/4	biological_process: acetyl-CoA biosynthetic process from pyruvate
+GO:0043604	0.010205600847104949	4/38	biological_process: amide biosynthetic process
+GO:0001968	0.010546983374173178	2/7	molecular_function: fibronectin binding
+GO:0045239	0.010546983374173178	2/7	cellular_component: tricarboxylic acid cycle enzyme complex
+GO:0016423	0.013579949597922959	2/8	molecular_function: tRNA (guanine) methyltransferase activity
+GO:0045197	0.016230011268576296	3/24	biological_process: establishment or maintenance of epithelial cell apical/basal polarity
+GO:0002698	0.016943405040267295	2/9	biological_process: negative regulation of immune effector process
+GO:0016624	0.020621710456513904	2/10	molecular_function: oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+set_aleatoire_500_information_p53_4.txt
+hypergeometric
+GO:0061025	0.0007889079015419719	3/9	biological_process: membrane fusion
+GO:0004739	0.0014079052680493552	2/3	molecular_function: pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0006086	0.0027750398478282798	2/4	biological_process: acetyl-CoA biosynthetic process from pyruvate
+GO:0043604	0.009230191059800255	4/38	biological_process: amide biosynthetic process
+GO:0001968	0.009298316447657655	2/7	molecular_function: fibronectin binding
+GO:0045239	0.009298316447657655	2/7	cellular_component: tricarboxylic acid cycle enzyme complex
+GO:0016423	0.012219555778223564	2/8	molecular_function: tRNA (guanine) methyltransferase activity
+GO:0045197	0.014911629710394086	3/24	biological_process: establishment or maintenance of epithelial cell apical/basal polarity
+GO:0002698	0.015485455171479447	2/9	biological_process: negative regulation of immune effector process
+GO:0016624	0.01907962519883495	2/10	molecular_function: oxidoreductase activity, acting on the aldehyde or oxo group of donors, disulfide as acceptor
+set_aleatoire_500_information_p53_4.txt
+coverage
+GO:0009987	0.9973014318932811	105/8171	biological_process: cellular process
+GO:0004739	0.9973333333333333	2/3	molecular_function: pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0008150	0.9976681472081218	105/9456	biological_process: biological_process
+GO:0061025	0.998	3/9	biological_process: membrane fusion
+GO:0003867	0.998	1/1	molecular_function: 4-aminobutyrate transaminase activity
+GO:0004052	0.998	1/1	molecular_function: arachidonate 12-lipoxygenase activity
+GO:0004108	0.998	1/1	molecular_function: citrate (Si)-synthase activity
+GO:0004138	0.998	1/1	molecular_function: deoxyguanosine kinase activity
+GO:0004148	0.998	1/1	molecular_function: dihydrolipoyl dehydrogenase activity
+GO:0004343	0.998	1/1	molecular_function: glucosamine 6-phosphate N-acetyltransferase activity
+set_aleatoire_500_information_p53_4.txt
+chi2
+GO:0016020	1.586309726903735e-20	66/7796	cellular_component: membrane
+GO:0008150	5.783448165386913e-18	105/9456	biological_process: biological_process
+GO:0044425	7.763255997696626e-18	57/6933	cellular_component: membrane part
+GO:0016021	3.6077086605896076e-17	55/6725	cellular_component: integral component of membrane
+GO:0004739	6.32466236697325e-12	2/3	molecular_function: pyruvate dehydrogenase (acetyl-transferring) activity
+GO:0009987	8.995069809559653e-10	105/8171	biological_process: cellular process
+GO:0003867	4.413367655723903e-09	1/1	molecular_function: 4-aminobutyrate transaminase activity
+GO:0004052	4.413367655723903e-09	1/1	molecular_function: arachidonate 12-lipoxygenase activity
+GO:0004108	4.413367655723903e-09	1/1	molecular_function: citrate (Si)-synthase activity
+GO:0004138	4.413367655723903e-09	1/1	molecular_function: deoxyguanosine kinase activity
+set_aleatoire_50_information_p53_4.txt
+binomial
+GO:0017014	0.0021820236159575284	1/1	biological_process: protein nitrosylation
+GO:0018119	0.0021820236159575284	1/1	biological_process: peptidyl-cysteine S-nitrosylation
+GO:0035385	0.0021820236159575284	1/1	biological_process: Roundabout signaling pathway
+GO:0035605	0.0021820236159575284	1/1	molecular_function: peptidyl-cysteine S-nitrosylase activity
+GO:0035606	0.0021820236159575284	1/1	biological_process: peptidyl-cysteine S-trans-nitrosylation
+GO:0051490	0.0021820236159575284	1/1	biological_process: negative regulation of filopodium assembly
+GO:0055004	0.004359381025716933	1/2	biological_process: atrial cardiac myofibril assembly
+GO:0004365	0.006532082004643865	1/3	molecular_function: glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+GO:0008290	0.006532082004643865	1/3	cellular_component: F-actin capping protein complex
+GO:0008046	0.006532082004643865	1/3	molecular_function: axon guidance receptor activity
+set_aleatoire_50_information_p53_4.txt
+hypergeometric
+GO:0017014	0.002184359982497838	1/1	biological_process: protein nitrosylation
+GO:0018119	0.002184359982497838	1/1	biological_process: peptidyl-cysteine S-nitrosylation
+GO:0035385	0.002184359982497838	1/1	biological_process: Roundabout signaling pathway
+GO:0035605	0.002184359982497838	1/1	molecular_function: peptidyl-cysteine S-nitrosylase activity
+GO:0035606	0.002184359982497838	1/1	biological_process: peptidyl-cysteine S-trans-nitrosylation
+GO:0051490	0.002184359982497838	1/1	biological_process: negative regulation of filopodium assembly
+GO:0055004	0.004364043760622039	1/2	biological_process: atrial cardiac myofibril assembly
+GO:0004365	0.00653906114147345	1/3	molecular_function: glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+GO:0008290	0.00653906114147345	1/3	cellular_component: F-actin capping protein complex
+GO:0008046	0.00653906114147345	1/3	molecular_function: axon guidance receptor activity
+set_aleatoire_50_information_p53_4.txt
+coverage
+GO:0017014	0.98	1/1	biological_process: protein nitrosylation
+GO:0018119	0.98	1/1	biological_process: peptidyl-cysteine S-nitrosylation
+GO:0035385	0.98	1/1	biological_process: Roundabout signaling pathway
+GO:0035605	0.98	1/1	molecular_function: peptidyl-cysteine S-nitrosylase activity
+GO:0035606	0.98	1/1	biological_process: peptidyl-cysteine S-trans-nitrosylation
+GO:0051490	0.98	1/1	biological_process: negative regulation of filopodium assembly
+GO:0055004	0.99	1/2	biological_process: atrial cardiac myofibril assembly
+GO:0004365	0.9933333333333333	1/3	molecular_function: glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+GO:0008290	0.9933333333333333	1/3	cellular_component: F-actin capping protein complex
+GO:0008046	0.9933333333333333	1/3	molecular_function: axon guidance receptor activity
+set_aleatoire_50_information_p53_4.txt
+chi2
+GO:0017014	1.456863927334179e-97	1/1	biological_process: protein nitrosylation
+GO:0018119	1.456863927334179e-97	1/1	biological_process: peptidyl-cysteine S-nitrosylation
+GO:0035385	1.456863927334179e-97	1/1	biological_process: Roundabout signaling pathway
+GO:0035605	1.456863927334179e-97	1/1	molecular_function: peptidyl-cysteine S-nitrosylase activity
+GO:0035606	1.456863927334179e-97	1/1	biological_process: peptidyl-cysteine S-trans-nitrosylation
+GO:0051490	1.456863927334179e-97	1/1	biological_process: negative regulation of filopodium assembly
+GO:0055004	4.739886570579636e-48	1/2	biological_process: atrial cardiac myofibril assembly
+GO:0004365	1.270134596525958e-31	1/3	molecular_function: glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+GO:0008290	1.270134596525958e-31	1/3	cellular_component: F-actin capping protein complex
+GO:0008046	1.270134596525958e-31	1/3	molecular_function: axon guidance receptor activity
+set_aleatoire_500_information_p53_5.txt
+binomial
+GO:1905431	0.0020518465592721893	2/3	biological_process: microcystin transport
+GO:0000298	0.0035955285693753678	2/4	molecular_function: endopolyphosphatase activity
+GO:0008486	0.0035955285693753678	2/4	molecular_function: diphosphoinositol-polyphosphate diphosphatase activity
+GO:0015961	0.0035955285693753678	2/4	biological_process: diadenosine polyphosphate catabolic process
+GO:0034431	0.0035955285693753678	2/4	molecular_function: bis(5'-adenosyl)-hexaphosphatase activity
+GO:0034432	0.0035955285693753678	2/4	molecular_function: bis(5'-adenosyl)-pentaphosphatase activity
+GO:0071543	0.0035955285693753678	2/4	biological_process: diphosphoinositol polyphosphate metabolic process
+GO:1901906	0.0035955285693753678	2/4	biological_process: diadenosine pentaphosphate metabolic process
+GO:1901907	0.0035955285693753678	2/4	biological_process: diadenosine pentaphosphate catabolic process
+GO:1901908	0.0035955285693753678	2/4	biological_process: diadenosine hexaphosphate metabolic process
+set_aleatoire_500_information_p53_5.txt
+hypergeometric
+GO:1905431	0.0014079052680493552	2/3	biological_process: microcystin transport
+GO:0000298	0.0027750398478282798	2/4	molecular_function: endopolyphosphatase activity
+GO:0008486	0.0027750398478282798	2/4	molecular_function: diphosphoinositol-polyphosphate diphosphatase activity
+GO:0015961	0.0027750398478282798	2/4	biological_process: diadenosine polyphosphate catabolic process
+GO:0034431	0.0027750398478282798	2/4	molecular_function: bis(5'-adenosyl)-hexaphosphatase activity
+GO:0034432	0.0027750398478282798	2/4	molecular_function: bis(5'-adenosyl)-pentaphosphatase activity
+GO:0071543	0.0027750398478282798	2/4	biological_process: diphosphoinositol polyphosphate metabolic process
+GO:1901906	0.0027750398478282798	2/4	biological_process: diadenosine pentaphosphate metabolic process
+GO:1901907	0.0027750398478282798	2/4	biological_process: diadenosine pentaphosphate catabolic process
+GO:1901908	0.0027750398478282798	2/4	biological_process: diadenosine hexaphosphate metabolic process
+set_aleatoire_500_information_p53_5.txt
+coverage
+GO:1905431	0.9973333333333333	2/3	biological_process: microcystin transport
+GO:0008150	0.9974870981387479	109/9456	biological_process: biological_process
+GO:0000298	0.998	2/4	molecular_function: endopolyphosphatase activity
+GO:0000454	0.998	1/1	biological_process: snoRNA guided rRNA pseudouridine synthesis
+GO:0001691	0.998	1/1	molecular_function: pseudophosphatase activity
+GO:0001695	0.998	1/1	biological_process: histamine catabolic process
+GO:0001782	0.998	1/1	biological_process: B cell homeostasis
+GO:0045579	0.998	1/1	biological_process: positive regulation of B cell differentiation
+GO:0050680	0.998	1/1	biological_process: negative regulation of epithelial cell proliferation
+GO:0003373	0.998	1/1	biological_process: dynamin family protein polymerization involved in membrane fission
+set_aleatoire_500_information_p53_5.txt
+chi2
+GO:0008150	1.53665182631233e-16	109/9456	biological_process: biological_process
+GO:0009987	2.201247057732382e-16	84/8171	biological_process: cellular process
+GO:0016020	1.2999643177281744e-15	79/7796	cellular_component: membrane
+GO:0044425	1.7315850048125557e-13	69/6933	cellular_component: membrane part
+GO:0016021	1.5127702924333554e-12	68/6725	cellular_component: integral component of membrane
+GO:1905431	6.32466236697325e-12	2/3	biological_process: microcystin transport
+GO:0065007	8.01779933654105e-10	44/4902	biological_process: biological regulation
+GO:0050794	2.0220108270423743e-09	32/4113	biological_process: regulation of cellular process
+GO:0000454	4.413367655723903e-09	1/1	biological_process: snoRNA guided rRNA pseudouridine synthesis
+GO:0001691	4.413367655723903e-09	1/1	molecular_function: pseudophosphatase activity
+set_aleatoire_50_information_p53_5.txt
+binomial
+GO:0038018	0.0021820236159575284	1/1	biological_process: Wnt receptor catabolic process
+GO:2000051	0.0021820236159575284	1/1	biological_process: negative regulation of non-canonical Wnt signaling pathway
+GO:0032801	0.004359381025716933	1/2	biological_process: receptor catabolic process
+GO:0045366	0.004359381025716933	1/2	biological_process: regulation of interleukin-13 biosynthetic process
+GO:0006211	0.006532082004643865	1/3	biological_process: 5-methylcytosine catabolic process
+GO:0017077	0.006532082004643865	1/3	molecular_function: oxidative phosphorylation uncoupler activity
+GO:0048903	0.006532082004643865	1/3	biological_process: anterior lateral line neuromast hair cell differentiation
+GO:0070579	0.006532082004643865	1/3	molecular_function: methylcytosine dioxygenase activity
+GO:0002237	0.009835093531443788	2/68	biological_process: response to molecule of bacterial origin
+GO:0043207	0.009835093531443788	2/68	biological_process: response to external biotic stimulus
+set_aleatoire_50_information_p53_5.txt
+hypergeometric
+GO:0038018	0.002184359982497838	1/1	biological_process: Wnt receptor catabolic process
+GO:2000051	0.002184359982497838	1/1	biological_process: negative regulation of non-canonical Wnt signaling pathway
+GO:0032801	0.004364043760622039	1/2	biological_process: receptor catabolic process
+GO:0045366	0.004364043760622039	1/2	biological_process: regulation of interleukin-13 biosynthetic process
+GO:0006211	0.00653906114147345	1/3	biological_process: 5-methylcytosine catabolic process
+GO:0017077	0.00653906114147345	1/3	molecular_function: oxidative phosphorylation uncoupler activity
+GO:0048903	0.00653906114147345	1/3	biological_process: anterior lateral line neuromast hair cell differentiation
+GO:0070579	0.00653906114147345	1/3	molecular_function: methylcytosine dioxygenase activity
+GO:0002237	0.009716996476525347	2/68	biological_process: response to molecule of bacterial origin
+GO:0043207	0.009716996476525347	2/68	biological_process: response to external biotic stimulus
+set_aleatoire_50_information_p53_5.txt
+coverage
+GO:0038018	0.98	1/1	biological_process: Wnt receptor catabolic process
+GO:2000051	0.98	1/1	biological_process: negative regulation of non-canonical Wnt signaling pathway
+GO:0032801	0.99	1/2	biological_process: receptor catabolic process
+GO:0045366	0.99	1/2	biological_process: regulation of interleukin-13 biosynthetic process
+GO:0006211	0.9933333333333333	1/3	biological_process: 5-methylcytosine catabolic process
+GO:0017077	0.9933333333333333	1/3	molecular_function: oxidative phosphorylation uncoupler activity
+GO:0048903	0.9933333333333333	1/3	biological_process: anterior lateral line neuromast hair cell differentiation
+GO:0070579	0.9933333333333333	1/3	molecular_function: methylcytosine dioxygenase activity
+GO:1990845	0.996	1/5	biological_process: adaptive thermogenesis
+GO:0008349	0.996	1/5	molecular_function: MAP kinase kinase kinase kinase activity
+set_aleatoire_50_information_p53_5.txt
+chi2
+GO:0038018	1.456863927334179e-97	1/1	biological_process: Wnt receptor catabolic process
+GO:2000051	1.456863927334179e-97	1/1	biological_process: negative regulation of non-canonical Wnt signaling pathway
+GO:0032801	4.739886570579636e-48	1/2	biological_process: receptor catabolic process
+GO:0045366	4.739886570579636e-48	1/2	biological_process: regulation of interleukin-13 biosynthetic process
+GO:0006211	1.270134596525958e-31	1/3	biological_process: 5-methylcytosine catabolic process
+GO:0017077	1.270134596525958e-31	1/3	molecular_function: oxidative phosphorylation uncoupler activity
+GO:0048903	1.270134596525958e-31	1/3	biological_process: anterior lateral line neuromast hair cell differentiation
+GO:0070579	1.270134596525958e-31	1/3	molecular_function: methylcytosine dioxygenase activity
+GO:1990845	1.4616151098615656e-18	1/5	biological_process: adaptive thermogenesis
+GO:0008349	1.4616151098615656e-18	1/5	molecular_function: MAP kinase kinase kinase kinase activity
+set_aleatoire_500_information_p53_6.txt
+binomial
+GO:0001754	0.0012700232255752168	4/21	biological_process: eye photoreceptor cell differentiation
+GO:0004082	0.0035955285693753678	2/4	molecular_function: bisphosphoglycerate mutase activity
+GO:0004619	0.0035955285693753678	2/4	molecular_function: phosphoglycerate mutase activity
+GO:0072014	0.0035955285693753678	2/4	biological_process: proximal tubule development
+GO:0072080	0.0035955285693753678	2/4	biological_process: nephron tubule development
+GO:0072019	0.0035955285693753678	2/4	biological_process: proximal convoluted tubule development
+GO:0014029	0.006448040993347164	3/17	biological_process: neural crest formation
+GO:0045444	0.007860680295274513	2/6	biological_process: fat cell differentiation
+GO:0046549	0.016943405040267295	2/9	biological_process: retinal cone cell development
+GO:0044703	0.021607222886926087	1/1	biological_process: multi-organism reproductive process
+set_aleatoire_500_information_p53_6.txt
+hypergeometric
+GO:0001754	0.0010019927083987248	4/21	biological_process: eye photoreceptor cell differentiation
+GO:0004082	0.0027750398478282798	2/4	molecular_function: bisphosphoglycerate mutase activity
+GO:0004619	0.0027750398478282798	2/4	molecular_function: phosphoglycerate mutase activity
+GO:0072014	0.0027750398478282798	2/4	biological_process: proximal tubule development
+GO:0072080	0.0027750398478282798	2/4	biological_process: nephron tubule development
+GO:0072019	0.0027750398478282798	2/4	biological_process: proximal convoluted tubule development
+GO:0014029	0.005607888676003329	3/17	biological_process: neural crest formation
+GO:0045444	0.00673869222437159	2/6	biological_process: fat cell differentiation
+GO:0046549	0.015485455171479447	2/9	biological_process: retinal cone cell development
+GO:0044703	0.02184359982476709	1/1	biological_process: multi-organism reproductive process
+set_aleatoire_500_information_p53_6.txt
+coverage
+GO:0008150	0.9975784686971235	107/9456	biological_process: biological_process
+GO:0044703	0.998	1/1	biological_process: multi-organism reproductive process
+GO:0051286	0.998	1/1	cellular_component: cell tip
+GO:0042706	0.998	1/1	biological_process: eye photoreceptor cell fate commitment
+GO:0016744	0.998	1/1	molecular_function: transferase activity, transferring aldehyde or ketonic groups
+GO:0004037	0.998	1/1	molecular_function: allantoicase activity
+GO:0004082	0.998	2/4	molecular_function: bisphosphoglycerate mutase activity
+GO:0004619	0.998	2/4	molecular_function: phosphoglycerate mutase activity
+GO:0004801	0.998	1/1	molecular_function: sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity
+GO:0005165	0.998	1/1	molecular_function: neurotrophin receptor binding
+set_aleatoire_500_information_p53_6.txt
+chi2
+GO:0016020	2.4206998866990736e-21	64/7796	cellular_component: membrane
+GO:0008150	3.0329796329206366e-17	107/9456	biological_process: biological_process
+GO:0016021	2.0731989928629425e-16	57/6725	cellular_component: integral component of membrane
+GO:0009987	2.201247057732382e-16	84/8171	biological_process: cellular process
+GO:0044425	5.987721764373328e-16	62/6933	cellular_component: membrane part
+GO:0065007	3.8169850169913855e-10	43/4902	biological_process: biological regulation
+GO:0044703	4.413367655723903e-09	1/1	biological_process: multi-organism reproductive process
+GO:0051286	4.413367655723903e-09	1/1	cellular_component: cell tip
+GO:0042706	4.413367655723903e-09	1/1	biological_process: eye photoreceptor cell fate commitment
+GO:0016744	4.413367655723903e-09	1/1	molecular_function: transferase activity, transferring aldehyde or ketonic groups
+set_aleatoire_50_information_p53_6.txt
+binomial
+GO:0045343	0.0021820236159575284	1/1	biological_process: regulation of MHC class I biosynthetic process
+GO:0045345	0.0021820236159575284	1/1	biological_process: positive regulation of MHC class I biosynthetic process
+GO:0045346	0.0021820236159575284	1/1	biological_process: regulation of MHC class II biosynthetic process
+GO:0045348	0.0021820236159575284	1/1	biological_process: positive regulation of MHC class II biosynthetic process
+GO:0061086	0.0021820236159575284	1/1	biological_process: negative regulation of histone H3-K27 methylation
+GO:0009299	0.004359381025716933	1/2	biological_process: mRNA transcription
+GO:0016074	0.004359381025716933	1/2	biological_process: snoRNA metabolic process
+GO:0016077	0.004359381025716933	1/2	biological_process: snoRNA catabolic process
+GO:0042789	0.004359381025716933	1/2	biological_process: mRNA transcription by RNA polymerase II
+GO:0055004	0.004359381025716933	1/2	biological_process: atrial cardiac myofibril assembly
+set_aleatoire_50_information_p53_6.txt
+hypergeometric
+GO:0045343	0.002184359982497838	1/1	biological_process: regulation of MHC class I biosynthetic process
+GO:0045345	0.002184359982497838	1/1	biological_process: positive regulation of MHC class I biosynthetic process
+GO:0045346	0.002184359982497838	1/1	biological_process: regulation of MHC class II biosynthetic process
+GO:0045348	0.002184359982497838	1/1	biological_process: positive regulation of MHC class II biosynthetic process
+GO:0061086	0.002184359982497838	1/1	biological_process: negative regulation of histone H3-K27 methylation
+GO:0009299	0.004364043760622039	1/2	biological_process: mRNA transcription
+GO:0016074	0.004364043760622039	1/2	biological_process: snoRNA metabolic process
+GO:0016077	0.004364043760622039	1/2	biological_process: snoRNA catabolic process
+GO:0042789	0.004364043760622039	1/2	biological_process: mRNA transcription by RNA polymerase II
+GO:0055004	0.004364043760622039	1/2	biological_process: atrial cardiac myofibril assembly
+set_aleatoire_50_information_p53_6.txt
+coverage
+GO:0045343	0.98	1/1	biological_process: regulation of MHC class I biosynthetic process
+GO:0045345	0.98	1/1	biological_process: positive regulation of MHC class I biosynthetic process
+GO:0045346	0.98	1/1	biological_process: regulation of MHC class II biosynthetic process
+GO:0045348	0.98	1/1	biological_process: positive regulation of MHC class II biosynthetic process
+GO:0061086	0.98	1/1	biological_process: negative regulation of histone H3-K27 methylation
+GO:0009299	0.99	1/2	biological_process: mRNA transcription
+GO:0016074	0.99	1/2	biological_process: snoRNA metabolic process
+GO:0016077	0.99	1/2	biological_process: snoRNA catabolic process
+GO:0042789	0.99	1/2	biological_process: mRNA transcription by RNA polymerase II
+GO:0055004	0.99	1/2	biological_process: atrial cardiac myofibril assembly
+set_aleatoire_50_information_p53_6.txt
+chi2
+GO:0045343	1.456863927334179e-97	1/1	biological_process: regulation of MHC class I biosynthetic process
+GO:0045345	1.456863927334179e-97	1/1	biological_process: positive regulation of MHC class I biosynthetic process
+GO:0045346	1.456863927334179e-97	1/1	biological_process: regulation of MHC class II biosynthetic process
+GO:0045348	1.456863927334179e-97	1/1	biological_process: positive regulation of MHC class II biosynthetic process
+GO:0061086	1.456863927334179e-97	1/1	biological_process: negative regulation of histone H3-K27 methylation
+GO:0009299	4.739886570579636e-48	1/2	biological_process: mRNA transcription
+GO:0016074	4.739886570579636e-48	1/2	biological_process: snoRNA metabolic process
+GO:0016077	4.739886570579636e-48	1/2	biological_process: snoRNA catabolic process
+GO:0042789	4.739886570579636e-48	1/2	biological_process: mRNA transcription by RNA polymerase II
+GO:0055004	4.739886570579636e-48	1/2	biological_process: atrial cardiac myofibril assembly
+set_aleatoire_500_information_p53_7.txt
+binomial
+GO:0016854	0.0035955285693753678	2/4	molecular_function: racemase and epimerase activity
+GO:0009166	0.005462439256457842	3/16	biological_process: nucleotide catabolic process
+GO:0033292	0.005537764876553047	2/5	biological_process: T-tubule organization
+GO:0001731	0.007860680295274513	2/6	biological_process: formation of translation preinitiation complex
+GO:0071051	0.007860680295274513	2/6	biological_process: polyadenylation-dependent snoRNA 3'-end processing
+GO:0034475	0.013579949597922959	2/8	biological_process: U4 snRNA 3'-end processing
+GO:0016073	0.014513031804358508	3/23	biological_process: snRNA metabolic process
+GO:0031126	0.016943405040267295	2/9	biological_process: snoRNA 3'-end processing
+GO:0000177	0.020621710456513904	2/10	cellular_component: cytoplasmic exosome (RNase complex)
+GO:0060841	0.020621710456513904	2/10	biological_process: venous blood vessel development
+set_aleatoire_500_information_p53_7.txt
+hypergeometric
+GO:0016854	0.0027750398478282798	2/4	molecular_function: racemase and epimerase activity
+GO:0033292	0.004558220772051927	2/5	biological_process: T-tubule organization
+GO:0009166	0.004693616564665149	3/16	biological_process: nucleotide catabolic process
+GO:0001731	0.00673869222437159	2/6	biological_process: formation of translation preinitiation complex
+GO:0071051	0.00673869222437159	2/6	biological_process: polyadenylation-dependent snoRNA 3'-end processing
+GO:0034475	0.012219555778223564	2/8	biological_process: U4 snRNA 3'-end processing
+GO:0016073	0.013258826479278124	3/23	biological_process: snRNA metabolic process
+GO:0031126	0.015485455171479447	2/9	biological_process: snoRNA 3'-end processing
+GO:0000177	0.01907962519883495	2/10	cellular_component: cytoplasmic exosome (RNase complex)
+GO:0060841	0.01907962519883495	2/10	biological_process: venous blood vessel development
+set_aleatoire_500_information_p53_7.txt
+coverage
+GO:0008150	0.9976235194585449	106/9456	biological_process: biological_process
+GO:0016020	0.9976847101077475	95/7796	cellular_component: membrane
+GO:0000939	0.998	1/1	cellular_component: condensed chromosome inner kinetochore
+GO:0031579	0.998	1/1	biological_process: membrane raft organization
+GO:0031580	0.998	1/1	biological_process: membrane raft distribution
+GO:0004113	0.998	1/1	molecular_function: 2',3'-cyclic-nucleotide 3'-phosphodiesterase activity
+GO:0004139	0.998	1/1	molecular_function: deoxyribose-phosphate aldolase activity
+GO:0004493	0.998	1/1	molecular_function: methylmalonyl-CoA epimerase activity
+GO:0016854	0.998	2/4	molecular_function: racemase and epimerase activity
+GO:0016308	0.998	1/1	molecular_function: 1-phosphatidylinositol-4-phosphate 5-kinase activity
+set_aleatoire_500_information_p53_7.txt
+chi2
+GO:0008150	1.3301465658594681e-17	106/9456	biological_process: biological_process
+GO:0009987	2.5740488609708457e-14	90/8171	biological_process: cellular process
+GO:0016021	5.750278876072839e-11	73/6725	cellular_component: integral component of membrane
+GO:0044425	6.191716136739898e-11	77/6933	cellular_component: membrane part
+GO:0016020	1.6634977619160887e-10	95/7796	cellular_component: membrane
+GO:0000939	4.413367655723903e-09	1/1	cellular_component: condensed chromosome inner kinetochore
+GO:0031579	4.413367655723903e-09	1/1	biological_process: membrane raft organization
+GO:0031580	4.413367655723903e-09	1/1	biological_process: membrane raft distribution
+GO:0004113	4.413367655723903e-09	1/1	molecular_function: 2',3'-cyclic-nucleotide 3'-phosphodiesterase activity
+GO:0004139	4.413367655723903e-09	1/1	molecular_function: deoxyribose-phosphate aldolase activity
+set_aleatoire_50_information_p53_7.txt
+binomial
+GO:0004491	0.0021820236159575284	1/1	molecular_function: methylmalonate-semialdehyde dehydrogenase (acylating) activity
+GO:0018478	0.0021820236159575284	1/1	molecular_function: malonate-semialdehyde dehydrogenase (acetylating) activity
+GO:0003870	0.004359381025716933	1/2	molecular_function: 5-aminolevulinate synthase activity
+GO:0004053	0.004359381025716933	1/2	molecular_function: arginase activity
+GO:0019547	0.004359381025716933	1/2	biological_process: arginine catabolic process to ornithine
+GO:0050771	0.004359381025716933	1/2	biological_process: negative regulation of axonogenesis
+GO:0048683	0.004359381025716933	1/2	biological_process: regulation of collateral sprouting of intact axon in response to injury
+GO:0048685	0.004359381025716933	1/2	biological_process: negative regulation of collateral sprouting of intact axon in response to injury
+GO:0003404	0.006532082004643865	1/3	biological_process: optic vesicle morphogenesis
+GO:0016813	0.006532082004643865	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+set_aleatoire_50_information_p53_7.txt
+hypergeometric
+GO:0004491	0.002184359982497838	1/1	molecular_function: methylmalonate-semialdehyde dehydrogenase (acylating) activity
+GO:0018478	0.002184359982497838	1/1	molecular_function: malonate-semialdehyde dehydrogenase (acetylating) activity
+GO:0003870	0.004364043760622039	1/2	molecular_function: 5-aminolevulinate synthase activity
+GO:0004053	0.004364043760622039	1/2	molecular_function: arginase activity
+GO:0019547	0.004364043760622039	1/2	biological_process: arginine catabolic process to ornithine
+GO:0050771	0.004364043760622039	1/2	biological_process: negative regulation of axonogenesis
+GO:0048683	0.004364043760622039	1/2	biological_process: regulation of collateral sprouting of intact axon in response to injury
+GO:0048685	0.004364043760622039	1/2	biological_process: negative regulation of collateral sprouting of intact axon in response to injury
+GO:0003404	0.00653906114147345	1/3	biological_process: optic vesicle morphogenesis
+GO:0016813	0.00653906114147345	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+set_aleatoire_50_information_p53_7.txt
+coverage
+GO:0004491	0.98	1/1	molecular_function: methylmalonate-semialdehyde dehydrogenase (acylating) activity
+GO:0018478	0.98	1/1	molecular_function: malonate-semialdehyde dehydrogenase (acetylating) activity
+GO:0003870	0.99	1/2	molecular_function: 5-aminolevulinate synthase activity
+GO:0004053	0.99	1/2	molecular_function: arginase activity
+GO:0019547	0.99	1/2	biological_process: arginine catabolic process to ornithine
+GO:0050771	0.99	1/2	biological_process: negative regulation of axonogenesis
+GO:0048683	0.99	1/2	biological_process: regulation of collateral sprouting of intact axon in response to injury
+GO:0048685	0.99	1/2	biological_process: negative regulation of collateral sprouting of intact axon in response to injury
+GO:0003404	0.9933333333333333	1/3	biological_process: optic vesicle morphogenesis
+GO:0016813	0.9933333333333333	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+set_aleatoire_50_information_p53_7.txt
+chi2
+GO:0004491	1.456863927334179e-97	1/1	molecular_function: methylmalonate-semialdehyde dehydrogenase (acylating) activity
+GO:0018478	1.456863927334179e-97	1/1	molecular_function: malonate-semialdehyde dehydrogenase (acetylating) activity
+GO:0003870	4.739886570579636e-48	1/2	molecular_function: 5-aminolevulinate synthase activity
+GO:0004053	4.739886570579636e-48	1/2	molecular_function: arginase activity
+GO:0019547	4.739886570579636e-48	1/2	biological_process: arginine catabolic process to ornithine
+GO:0050771	4.739886570579636e-48	1/2	biological_process: negative regulation of axonogenesis
+GO:0048683	4.739886570579636e-48	1/2	biological_process: regulation of collateral sprouting of intact axon in response to injury
+GO:0048685	4.739886570579636e-48	1/2	biological_process: negative regulation of collateral sprouting of intact axon in response to injury
+GO:0003404	1.270134596525958e-31	1/3	biological_process: optic vesicle morphogenesis
+GO:0016813	1.270134596525958e-31	1/3	molecular_function: hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amidines
+set_aleatoire_500_information_p53_8.txt
+binomial
+GO:0048211	0.0020518465592721893	2/3	biological_process: Golgi vesicle docking
+GO:1990381	0.0035955285693753678	2/4	molecular_function: ubiquitin-specific protease binding
+GO:0001054	0.0037785549128125733	3/14	molecular_function: RNA polymerase I activity
+GO:0005736	0.0037785549128125733	3/14	cellular_component: RNA polymerase I complex
+GO:0000839	0.005537764876553047	2/5	cellular_component: Hrd1p ubiquitin ligase ERAD-L complex
+GO:0044275	0.005537764876553047	2/5	biological_process: cellular carbohydrate catabolic process
+GO:0045815	0.005537764876553047	2/5	biological_process: positive regulation of gene expression, epigenetic
+GO:0000836	0.007860680295274513	2/6	cellular_component: Hrd1p ubiquitin ligase complex
+GO:0016701	0.007860680295274513	2/6	molecular_function: oxidoreductase activity, acting on single donors with incorporation of molecular oxygen
+GO:0035494	0.007860680295274513	2/6	biological_process: SNARE complex disassembly
+set_aleatoire_500_information_p53_8.txt
+hypergeometric
+GO:0048211	0.0014079052680493552	2/3	biological_process: Golgi vesicle docking
+GO:1990381	0.0027750398478282798	2/4	molecular_function: ubiquitin-specific protease binding
+GO:0001054	0.0031513983269995964	3/14	molecular_function: RNA polymerase I activity
+GO:0005736	0.0031513983269995964	3/14	cellular_component: RNA polymerase I complex
+GO:0000839	0.004558220772051927	2/5	cellular_component: Hrd1p ubiquitin ligase ERAD-L complex
+GO:0044275	0.004558220772051927	2/5	biological_process: cellular carbohydrate catabolic process
+GO:0045815	0.004558220772051927	2/5	biological_process: positive regulation of gene expression, epigenetic
+GO:0000836	0.00673869222437159	2/6	cellular_component: Hrd1p ubiquitin ligase complex
+GO:0016701	0.00673869222437159	2/6	molecular_function: oxidoreductase activity, acting on single donors with incorporation of molecular oxygen
+GO:0035494	0.00673869222437159	2/6	biological_process: SNARE complex disassembly
+set_aleatoire_500_information_p53_8.txt
+coverage
+GO:0048211	0.9973333333333333	2/3	biological_process: Golgi vesicle docking
+GO:0008150	0.9976235194585449	106/9456	biological_process: biological_process
+GO:0000053	0.998	1/1	biological_process: argininosuccinate metabolic process
+GO:0000416	0.998	1/1	biological_process: positive regulation of histone H3-K36 methylation
+GO:0019953	0.998	1/1	biological_process: sexual reproduction
+GO:0001562	0.998	1/1	biological_process: response to protozoan
+GO:0001773	0.998	1/1	biological_process: myeloid dendritic cell activation
+GO:0097028	0.998	1/1	biological_process: dendritic cell differentiation
+GO:0043011	0.998	1/1	biological_process: myeloid dendritic cell differentiation
+GO:0045064	0.998	1/1	biological_process: T-helper 2 cell differentiation
+set_aleatoire_500_information_p53_8.txt
+chi2
+GO:0016020	1.001656536988667e-19	68/7796	cellular_component: membrane
+GO:0008150	1.3301465658594681e-17	106/9456	biological_process: biological_process
+GO:0044425	5.987721764373328e-16	62/6933	cellular_component: membrane part
+GO:0016021	6.065799769584499e-15	61/6725	cellular_component: integral component of membrane
+GO:0009987	1.190893458931661e-14	89/8171	biological_process: cellular process
+GO:0048211	6.32466236697325e-12	2/3	biological_process: Golgi vesicle docking
+GO:0000053	4.413367655723903e-09	1/1	biological_process: argininosuccinate metabolic process
+GO:0000416	4.413367655723903e-09	1/1	biological_process: positive regulation of histone H3-K36 methylation
+GO:0019953	4.413367655723903e-09	1/1	biological_process: sexual reproduction
+GO:0001562	4.413367655723903e-09	1/1	biological_process: response to protozoan
+set_aleatoire_50_information_p53_8.txt
+binomial
+GO:0000253	0.0021820236159575284	1/1	molecular_function: 3-keto sterol reductase activity
+GO:0010040	0.0021820236159575284	1/1	biological_process: response to iron(II) ion
+GO:0030350	0.004359381025716933	1/2	molecular_function: iron-responsive element binding
+GO:0051538	0.004359381025716933	1/2	molecular_function: 3 iron, 4 sulfur cluster binding
+GO:0003994	0.006532082004643865	1/3	molecular_function: aconitate hydratase activity
+GO:0006837	0.008700136308034494	1/4	biological_process: serotonin transport
+GO:0005335	0.008700136308034494	1/4	molecular_function: serotonin:sodium symporter activity
+GO:0038085	0.008700136308034494	1/4	molecular_function: vascular endothelial growth factor binding
+GO:0051610	0.008700136308034494	1/4	biological_process: serotonin uptake
+GO:0098810	0.008700136308034494	1/4	biological_process: neurotransmitter reuptake
+set_aleatoire_50_information_p53_8.txt
+hypergeometric
+GO:0000253	0.002184359982497838	1/1	molecular_function: 3-keto sterol reductase activity
+GO:0010040	0.002184359982497838	1/1	biological_process: response to iron(II) ion
+GO:0030350	0.004364043760622039	1/2	molecular_function: iron-responsive element binding
+GO:0051538	0.004364043760622039	1/2	molecular_function: 3 iron, 4 sulfur cluster binding
+GO:0003994	0.00653906114147345	1/3	molecular_function: aconitate hydratase activity
+GO:0006837	0.008709421910821837	1/4	biological_process: serotonin transport
+GO:0005335	0.008709421910821837	1/4	molecular_function: serotonin:sodium symporter activity
+GO:0038085	0.008709421910821837	1/4	molecular_function: vascular endothelial growth factor binding
+GO:0051610	0.008709421910821837	1/4	biological_process: serotonin uptake
+GO:0098810	0.008709421910821837	1/4	biological_process: neurotransmitter reuptake
+set_aleatoire_50_information_p53_8.txt
+coverage
+GO:0000253	0.98	1/1	molecular_function: 3-keto sterol reductase activity
+GO:0010040	0.98	1/1	biological_process: response to iron(II) ion
+GO:0030350	0.99	1/2	molecular_function: iron-responsive element binding
+GO:0051538	0.99	1/2	molecular_function: 3 iron, 4 sulfur cluster binding
+GO:0003994	0.9933333333333333	1/3	molecular_function: aconitate hydratase activity
+GO:0006837	0.995	1/4	biological_process: serotonin transport
+GO:0005335	0.995	1/4	molecular_function: serotonin:sodium symporter activity
+GO:0038085	0.995	1/4	molecular_function: vascular endothelial growth factor binding
+GO:0051610	0.995	1/4	biological_process: serotonin uptake
+GO:0098810	0.995	1/4	biological_process: neurotransmitter reuptake
+set_aleatoire_50_information_p53_8.txt
+chi2
+GO:0000253	1.456863927334179e-97	1/1	molecular_function: 3-keto sterol reductase activity
+GO:0010040	1.456863927334179e-97	1/1	biological_process: response to iron(II) ion
+GO:0030350	4.739886570579636e-48	1/2	molecular_function: iron-responsive element binding
+GO:0051538	4.739886570579636e-48	1/2	molecular_function: 3 iron, 4 sulfur cluster binding
+GO:0003994	1.270134596525958e-31	1/3	molecular_function: aconitate hydratase activity
+GO:0006837	1.908910405228229e-23	1/4	biological_process: serotonin transport
+GO:0005335	1.908910405228229e-23	1/4	molecular_function: serotonin:sodium symporter activity
+GO:0038085	1.908910405228229e-23	1/4	molecular_function: vascular endothelial growth factor binding
+GO:0051610	1.908910405228229e-23	1/4	biological_process: serotonin uptake
+GO:0098810	1.908910405228229e-23	1/4	biological_process: neurotransmitter reuptake
+set_aleatoire_500_information_p53_9.txt
+binomial
+GO:0004551	0.0019233168978669455	3/11	molecular_function: nucleotide diphosphatase activity
+GO:0048709	0.0023827493847739197	4/25	biological_process: oligodendrocyte differentiation
+GO:0000050	0.005537764876553047	2/5	biological_process: urea cycle
+GO:0050808	0.008274005487997971	5/56	biological_process: synapse organization
+GO:0007416	0.010205600847104949	4/38	biological_process: synapse assembly
+GO:0010002	0.013579949597922959	2/8	biological_process: cardioblast differentiation
+GO:0016423	0.013579949597922959	2/8	molecular_function: tRNA (guanine) methyltransferase activity
+GO:0035721	0.013579949597922959	2/8	biological_process: intraciliary retrograde transport
+GO:0051123	0.016943405040267295	2/9	biological_process: RNA polymerase II preinitiation complex assembly
+GO:0042073	0.01805609001573881	3/25	biological_process: intraciliary transport
+set_aleatoire_500_information_p53_9.txt
+hypergeometric
+GO:0004551	0.001499923812426715	3/11	molecular_function: nucleotide diphosphatase activity
+GO:0048709	0.001976597619420499	4/25	biological_process: oligodendrocyte differentiation
+GO:0000050	0.004558220772051927	2/5	biological_process: urea cycle
+GO:0050808	0.007456984878542697	5/56	biological_process: synapse organization
+GO:0007416	0.009230191059800255	4/38	biological_process: synapse assembly
+GO:0010002	0.012219555778223564	2/8	biological_process: cardioblast differentiation
+GO:0016423	0.012219555778223564	2/8	molecular_function: tRNA (guanine) methyltransferase activity
+GO:0035721	0.012219555778223564	2/8	biological_process: intraciliary retrograde transport
+GO:0051123	0.015485455171479447	2/9	biological_process: RNA polymerase II preinitiation complex assembly
+GO:0042073	0.016675497722911832	3/25	biological_process: intraciliary transport
+set_aleatoire_500_information_p53_9.txt
+coverage
+GO:0008150	0.997346869712352	112/9456	biological_process: biological_process
+GO:0009987	0.9974032554154938	103/8171	biological_process: cellular process
+GO:0000053	0.998	1/1	biological_process: argininosuccinate metabolic process
+GO:0000253	0.998	1/1	molecular_function: 3-keto sterol reductase activity
+GO:0002939	0.998	1/1	biological_process: tRNA N1-guanine methylation
+GO:0042756	0.998	1/1	biological_process: drinking behavior
+GO:0003921	0.998	1/1	molecular_function: GMP synthase activity
+GO:0003922	0.998	1/1	molecular_function: GMP synthase (glutamine-hydrolyzing) activity
+GO:0003952	0.998	1/1	molecular_function: NAD+ synthase (glutamine-hydrolyzing) activity
+GO:0003973	0.998	1/1	molecular_function: (S)-2-hydroxy-acid oxidase activity
+set_aleatoire_500_information_p53_9.txt
+chi2
+GO:0016020	8.530274179527779e-18	73/7796	cellular_component: membrane
+GO:0044425	2.561074769185515e-16	61/6933	cellular_component: membrane part
+GO:0016021	1.144279637194537e-15	59/6725	cellular_component: integral component of membrane
+GO:0008150	1.6425765601958365e-15	112/9456	biological_process: biological_process
+GO:0009987	2.512674207313838e-10	103/8171	biological_process: cellular process
+GO:0000053	4.413367655723903e-09	1/1	biological_process: argininosuccinate metabolic process
+GO:0000253	4.413367655723903e-09	1/1	molecular_function: 3-keto sterol reductase activity
+GO:0002939	4.413367655723903e-09	1/1	biological_process: tRNA N1-guanine methylation
+GO:0042756	4.413367655723903e-09	1/1	biological_process: drinking behavior
+GO:0003921	4.413367655723903e-09	1/1	molecular_function: GMP synthase activity
+set_aleatoire_50_information_p53_9.txt
+binomial
+GO:0009065	0.000515145193422849	2/15	biological_process: glutamine family amino acid catabolic process
+GO:1901606	0.001762765799403085	2/28	biological_process: alpha-amino acid catabolic process
+GO:0090599	0.0021820236159575284	1/1	molecular_function: alpha-glucosidase activity
+GO:0061010	0.004359381025716933	1/2	biological_process: gall bladder development
+GO:0006524	0.006532082004643865	1/3	biological_process: alanine catabolic process
+GO:0009080	0.006532082004643865	1/3	biological_process: pyruvate family amino acid catabolic process
+GO:0008798	0.006532082004643865	1/3	molecular_function: beta-aspartyl-peptidase activity
+GO:0009041	0.006532082004643865	1/3	molecular_function: uridylate kinase activity
+GO:0046436	0.006532082004643865	1/3	biological_process: D-alanine metabolic process
+GO:0046144	0.006532082004643865	1/3	biological_process: D-alanine family amino acid metabolic process
+set_aleatoire_50_information_p53_9.txt
+hypergeometric
+GO:0009065	0.00048215925242741585	2/15	biological_process: glutamine family amino acid catabolic process
+GO:1901606	0.0017045723892236337	2/28	biological_process: alpha-amino acid catabolic process
+GO:0090599	0.002184359982497838	1/1	molecular_function: alpha-glucosidase activity
+GO:0061010	0.004364043760622039	1/2	biological_process: gall bladder development
+GO:0006524	0.00653906114147345	1/3	biological_process: alanine catabolic process
+GO:0009080	0.00653906114147345	1/3	biological_process: pyruvate family amino acid catabolic process
+GO:0008798	0.00653906114147345	1/3	molecular_function: beta-aspartyl-peptidase activity
+GO:0009041	0.00653906114147345	1/3	molecular_function: uridylate kinase activity
+GO:0046436	0.00653906114147345	1/3	biological_process: D-alanine metabolic process
+GO:0046144	0.00653906114147345	1/3	biological_process: D-alanine family amino acid metabolic process
+set_aleatoire_50_information_p53_9.txt
+coverage
+GO:0090599	0.98	1/1	molecular_function: alpha-glucosidase activity
+GO:0061010	0.99	1/2	biological_process: gall bladder development
+GO:0006524	0.9933333333333333	1/3	biological_process: alanine catabolic process
+GO:0009080	0.9933333333333333	1/3	biological_process: pyruvate family amino acid catabolic process
+GO:0008798	0.9933333333333333	1/3	molecular_function: beta-aspartyl-peptidase activity
+GO:0009041	0.9933333333333333	1/3	molecular_function: uridylate kinase activity
+GO:0046436	0.9933333333333333	1/3	biological_process: D-alanine metabolic process
+GO:0046144	0.9933333333333333	1/3	biological_process: D-alanine family amino acid metabolic process
+GO:0033345	0.9933333333333333	1/3	biological_process: asparagine catabolic process via L-aspartate
+GO:0055130	0.9933333333333333	1/3	biological_process: D-alanine catabolic process
+set_aleatoire_50_information_p53_9.txt
+chi2
+GO:0090599	1.456863927334179e-97	1/1	molecular_function: alpha-glucosidase activity
+GO:0061010	4.739886570579636e-48	1/2	biological_process: gall bladder development
+GO:0006524	1.270134596525958e-31	1/3	biological_process: alanine catabolic process
+GO:0009080	1.270134596525958e-31	1/3	biological_process: pyruvate family amino acid catabolic process
+GO:0008798	1.270134596525958e-31	1/3	molecular_function: beta-aspartyl-peptidase activity
+GO:0009041	1.270134596525958e-31	1/3	molecular_function: uridylate kinase activity
+GO:0046436	1.270134596525958e-31	1/3	biological_process: D-alanine metabolic process
+GO:0046144	1.270134596525958e-31	1/3	biological_process: D-alanine family amino acid metabolic process
+GO:0033345	1.270134596525958e-31	1/3	biological_process: asparagine catabolic process via L-aspartate
+GO:0055130	1.270134596525958e-31	1/3	biological_process: D-alanine catabolic process
+set_aleatoire_500_information_p53_10.txt
+binomial
+GO:0000027	0.0012700232255752168	4/21	biological_process: ribosomal large subunit assembly
+GO:0070180	0.0035955285693753678	2/4	molecular_function: large ribosomal subunit rRNA binding
+GO:0035988	0.005537764876553047	2/5	biological_process: chondrocyte proliferation
+GO:0070016	0.005537764876553047	2/5	molecular_function: armadillo repeat domain binding
+GO:0060562	0.011133945100369712	4/39	biological_process: epithelial tube morphogenesis
+GO:0042572	0.011403440131839313	3/21	biological_process: retinol metabolic process
+GO:0004017	0.016943405040267295	2/9	molecular_function: adenylate kinase activity
+GO:0042398	0.016943405040267295	2/9	biological_process: cellular modified amino acid biosynthetic process
+GO:0034308	0.01999173465204006	3/26	biological_process: primary alcohol metabolic process
+GO:0050691	0.021607222886926087	1/1	biological_process: regulation of defense response to virus by host
+set_aleatoire_500_information_p53_10.txt
+hypergeometric
+GO:0000027	0.0010019927083987248	4/21	biological_process: ribosomal large subunit assembly
+GO:0070180	0.0027750398478282798	2/4	molecular_function: large ribosomal subunit rRNA binding
+GO:0035988	0.004558220772051927	2/5	biological_process: chondrocyte proliferation
+GO:0070016	0.004558220772051927	2/5	molecular_function: armadillo repeat domain binding
+GO:0060562	0.01011128080075512	4/39	biological_process: epithelial tube morphogenesis
+GO:0042572	0.010282690483888251	3/21	biological_process: retinol metabolic process
+GO:0004017	0.015485455171479447	2/9	molecular_function: adenylate kinase activity
+GO:0042398	0.015485455171479447	2/9	biological_process: cellular modified amino acid biosynthetic process
+GO:0034308	0.018551071729707474	3/26	biological_process: primary alcohol metabolic process
+GO:0015934	0.020532053146618424	4/48	cellular_component: large ribosomal subunit
+set_aleatoire_500_information_p53_10.txt
+coverage
+GO:0008150	0.9972028341793571	115/9456	biological_process: biological_process
+GO:0050691	0.998	1/1	biological_process: regulation of defense response to virus by host
+GO:0004799	0.998	1/1	molecular_function: thymidylate synthase activity
+GO:0042083	0.998	1/1	molecular_function: 5,10-methylenetetrahydrofolate-dependent methyltransferase activity
+GO:0046041	0.998	1/1	biological_process: ITP metabolic process
+GO:0044060	0.998	1/1	biological_process: regulation of endocrine process
+GO:0080134	0.998	1/1	biological_process: regulation of response to stress
+GO:0045785	0.998	1/1	biological_process: positive regulation of cell adhesion
+GO:0010829	0.998	1/1	biological_process: negative regulation of glucose transmembrane transport
+GO:0051881	0.998	1/1	biological_process: regulation of mitochondrial membrane potential
+set_aleatoire_500_information_p53_10.txt
+chi2
+GO:0016020	1.586309726903735e-20	66/7796	cellular_component: membrane
+GO:0016021	1.482389507215051e-17	54/6725	cellular_component: integral component of membrane
+GO:0044425	4.548135409812158e-17	59/6933	cellular_component: membrane part
+GO:0008150	1.6244435205239834e-14	115/9456	biological_process: biological_process
+GO:0009987	2.5740488609708457e-14	90/8171	biological_process: cellular process
+GO:0050691	4.413367655723903e-09	1/1	biological_process: regulation of defense response to virus by host
+GO:0004799	4.413367655723903e-09	1/1	molecular_function: thymidylate synthase activity
+GO:0042083	4.413367655723903e-09	1/1	molecular_function: 5,10-methylenetetrahydrofolate-dependent methyltransferase activity
+GO:0046041	4.413367655723903e-09	1/1	biological_process: ITP metabolic process
+GO:0044060	4.413367655723903e-09	1/1	biological_process: regulation of endocrine process
+set_aleatoire_50_information_p53_10.txt
+binomial
+GO:0005586	0.0021820236159575284	1/1	cellular_component: collagen type III trimer
+GO:0034309	0.0021820236159575284	1/1	biological_process: primary alcohol biosynthetic process
+GO:0009438	0.0021820236159575284	1/1	biological_process: methylglyoxal metabolic process
+GO:0060393	0.0021820236159575284	1/1	biological_process: regulation of pathway-restricted SMAD protein phosphorylation
+GO:0048642	0.0021820236159575284	1/1	biological_process: negative regulation of skeletal muscle tissue development
+GO:0014738	0.0021820236159575284	1/1	biological_process: regulation of muscle hyperplasia
+GO:0019249	0.0021820236159575284	1/1	biological_process: lactate biosynthetic process
+GO:0032411	0.0021820236159575284	1/1	biological_process: positive regulation of transporter activity
+GO:1904064	0.0021820236159575284	1/1	biological_process: positive regulation of cation transmembrane transport
+GO:0036524	0.0021820236159575284	1/1	molecular_function: protein deglycase activity
+set_aleatoire_50_information_p53_10.txt
+hypergeometric
+GO:0005586	0.002184359982497838	1/1	cellular_component: collagen type III trimer
+GO:0034309	0.002184359982497838	1/1	biological_process: primary alcohol biosynthetic process
+GO:0009438	0.002184359982497838	1/1	biological_process: methylglyoxal metabolic process
+GO:0060393	0.002184359982497838	1/1	biological_process: regulation of pathway-restricted SMAD protein phosphorylation
+GO:0048642	0.002184359982497838	1/1	biological_process: negative regulation of skeletal muscle tissue development
+GO:0014738	0.002184359982497838	1/1	biological_process: regulation of muscle hyperplasia
+GO:0019249	0.002184359982497838	1/1	biological_process: lactate biosynthetic process
+GO:0032411	0.002184359982497838	1/1	biological_process: positive regulation of transporter activity
+GO:1904064	0.002184359982497838	1/1	biological_process: positive regulation of cation transmembrane transport
+GO:0036524	0.002184359982497838	1/1	molecular_function: protein deglycase activity
+set_aleatoire_50_information_p53_10.txt
+coverage
+GO:0005586	0.98	1/1	cellular_component: collagen type III trimer
+GO:0034309	0.98	1/1	biological_process: primary alcohol biosynthetic process
+GO:0009438	0.98	1/1	biological_process: methylglyoxal metabolic process
+GO:0060393	0.98	1/1	biological_process: regulation of pathway-restricted SMAD protein phosphorylation
+GO:0048642	0.98	1/1	biological_process: negative regulation of skeletal muscle tissue development
+GO:0014738	0.98	1/1	biological_process: regulation of muscle hyperplasia
+GO:0019249	0.98	1/1	biological_process: lactate biosynthetic process
+GO:0032411	0.98	1/1	biological_process: positive regulation of transporter activity
+GO:1904064	0.98	1/1	biological_process: positive regulation of cation transmembrane transport
+GO:0036524	0.98	1/1	molecular_function: protein deglycase activity
+set_aleatoire_50_information_p53_10.txt
+chi2
+GO:0005586	1.456863927334179e-97	1/1	cellular_component: collagen type III trimer
+GO:0034309	1.456863927334179e-97	1/1	biological_process: primary alcohol biosynthetic process
+GO:0009438	1.456863927334179e-97	1/1	biological_process: methylglyoxal metabolic process
+GO:0060393	1.456863927334179e-97	1/1	biological_process: regulation of pathway-restricted SMAD protein phosphorylation
+GO:0048642	1.456863927334179e-97	1/1	biological_process: negative regulation of skeletal muscle tissue development
+GO:0014738	1.456863927334179e-97	1/1	biological_process: regulation of muscle hyperplasia
+GO:0019249	1.456863927334179e-97	1/1	biological_process: lactate biosynthetic process
+GO:0032411	1.456863927334179e-97	1/1	biological_process: positive regulation of transporter activity
+GO:1904064	1.456863927334179e-97	1/1	biological_process: positive regulation of cation transmembrane transport
+GO:0036524	1.456863927334179e-97	1/1	molecular_function: protein deglycase activity
